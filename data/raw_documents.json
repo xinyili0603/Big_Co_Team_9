@@ -153,5 +153,752 @@
       "Aaron L Fogelson"
     ],
     "publication_date": "2026-04-07"
+  },
+  {
+    "id": "41818427",
+    "type": "pubmed",
+    "title": "Thrombin Generation in Pediatric Haemophilia A Patients on Extended Half-Life FVIII versus Non-FVIII Therapies.",
+    "abstract": "The therapeutic landscape for patients with haemophilia A (PwHA) is rapidly evolving with the introduction of extended half-life FVIII (EHL-FVIII) and non-FVIII therapies that mimic FVIII, such as emicizumab (EMI). Monitoring non-factor therapies in the laboratory poses challenges; however, the thrombin generation assay (TGA) can be utilized to evaluate hemostatic capacity.\nTo compare the endogenous thrombin potential (ETP) and peak thrombin (PT) in pediatric patients with moderate to severe haemophilia A (SHA) undergoing EHL-FVIII therapies and EMI.\nPlatelet-poor plasma (PPP) from PwHA on EHL-FVIII or EMI prophylaxis was tested on the calibrated automated thrombogram (CAT) using PPP low reagent.\nETP and PT were significantly higher in the EHL-FVIII group compared to the EMI group.\nPediatric patients on EHL-FVIII prophylaxis demonstrated higher ETP in vitro using PPP compared to those on EMI prophylaxis. These findings highlight the need for further systematic investigations to explore the implications of these differences in bleed control.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Jessica Garcia",
+      "Sean G Yates",
+      "Ravi Sarode",
+      "Guy Young",
+      "Ayesha Zia"
+    ],
+    "publication_date": "2026-03-12"
+  },
+  {
+    "id": "41791668",
+    "type": "pubmed",
+    "title": "Prothrombotic PROC variant rebalancing hemostasis in severe hemophilia A with attenuated bleeding risk.",
+    "abstract": "Severe hemophilia A (HA), defined by a clotting factor [F]VIII level of <1%, leads to a severe bleeding tendency. A pathogenic F8 variant p.His300Lysfs∗41 accounted for <1% FVIII levels in a patient with HA; however, he exhibited a discordantly mild-to-moderate bleeding phenotype.\nTo identify and characterize the hemostatic impact of co-inherited genetic modifiers in a HA patient exhibiting a clinical phenotype discordant with their FVIII level.\nMultigene sequencing to detect possible genetic modifiers identified a heterozygous PROC variant (p.Trp414Arg). Plasma protein C (PC) activity and antigen were measured. Recombinant wild-type and mutant PC were produced using Expi293F cells with function and quantity measured by chromogenic activity assays and competitive ELISA. Protein structure was predicted with AlphaFold 3. Thrombin generation assays in FVIII-deficient plasma with varying PC concentrations were used to mimic PC deficiency in HA.\nPC activity in the patient's plasma was 58% (clotting-based) and 53% (chromogenic), and PC antigenic concentration was 59%. Mutant PC in transfection supernatant demonstrated concordant marked reduction in PC activity (0% vs 90%) and quantity (4% vs 100%) compared with wild-type PC. Thrombin generation assays demonstrated increases in endogenous thrombin potential and peak height upon addition of thrombomodulin in PC-deficient vs PC-replete FVIII-deficient plasma.\nThe partial quantitative PC deficiency in the patient resulted from a heterozygous pathogenic PROC p.Trp414Arg variant. Quantitative reduction in PC improved thrombin generation in FVIII-deficient plasma upon addition of thrombomodulin. Thus, this PROC variant was predicted to attenuate bleeding severity in HA by improving thrombin generation. Multigene panel sequencing permits the identification of genetic modifiers that result in naturally rebalanced hemostasis in inherited bleeding disorders.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Radha Ramanan",
+      "Quentin Van Thillo",
+      "Renaud Lavend'homme",
+      "Christine Van Laer",
+      "Chantal Thys",
+      "Koenraad De Wispelaere",
+      "Sarissa Baert",
+      "Cyrielle Kint",
+      "Peter Verhamme",
+      "Thomas Vanassche",
+      "James D McFadyen",
+      "Andrew C Perkins",
+      "Huyen A Tran",
+      "Veerle Labarque",
+      "Marc Jacquemin",
+      "Kathleen Freson"
+    ],
+    "publication_date": "2026-03-04"
+  },
+  {
+    "id": "41789952",
+    "type": "pubmed",
+    "title": "Inherited Bleeding Disorders in Pregnancy: Obstetric Management and Outcomes From a Tertiary Care Centre.",
+    "abstract": "This study aimed to evaluate the obstetric management, complications and clinical characteristics of pregnant women diagnosed with hereditary coagulation factor deficiencies at a tertiary obstetric centre over a 10-year period.\nWe retrospectively reviewed a total of 19 pregnancies in 17 women with hereditary coagulation factor deficiencies who delivered at a tertiary referral centre between January 2015 and April 2025. Clinical data including deficient factor type and levels, delivery mode, maternal outcomes and treatments were collected from hospital records.\nVon Willebrand disease was the most frequent diagnosis (37%), followed by factor XI (21%), factor VII (16%), factor X (11%) and factor XIII deficiency in one pregnancy (5%). One patient had combined deficiencies of von Willebrand factor, factor V, and factor VIII. Fifteen pregnancies (78%) resulted in term delivery, two (11%) were late preterm, and two (11%) ended in early pregnancy loss. Cesarean delivery was performed in 11 pregnancies (58%), all for obstetric indications. Postpartum haemorrhage occurred in four pregnancies (24%), including one case (6%) requiring laparotomy due to intra-abdominal bleeding. Haemate-P was administered in four pregnancies (21%), with no haemorrhagic complications. One patient developed transfusion-associated circulatory overload following fresh frozen plasma administration for factor XI deficiency. Factor activity levels were not consistently correlated with bleeding outcomes, highlighting substantial clinical variability.\nHereditary coagulation factor deficiencies present complex challenges in obstetric care. Individualized delivery planning, prophylactic replacement strategies and close postpartum monitoring are essential. Management in multidisciplinary centres is critical to optimizing maternal and neonatal outcomes.\nSome women have inherited conditions that affect how their blood clots, called hereditary coagulation factor deficiencies. During pregnancy and childbirth, these conditions may increase the risk of bleeding for both mothers and babies. We reviewed the medical records of 17 pregnant women with different types of inherited clotting factor deficiencies who gave birth at a large tertiary care hospital between 2015 and 2025. The women had conditions such as von Willebrand disease and deficiencies of Factors VII, X, XI and XIII. We found that pregnancy and delivery outcomes were very different from one woman to another. Some women with very low clotting factor levels experienced no bleeding problems, while others had significant bleeding despite having near-normal levels. Careful planning and teamwork between specialists-including obstetricians, haematologists and anaesthesiologists-were essential to ensure safe deliveries. Treatments such as factor replacement, Haemate-P and fresh frozen plasma were used when necessary. Our study highlights the importance of individualized care for pregnant women with rare bleeding disorders. Early involvement of a multidisciplinary team and close monitoring before, during and after childbirth can help prevent complications and improve outcomes for both mothers and babies.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Melis Altug Inan",
+      "Bilge Kapudere",
+      "Hanne Bulat Cim",
+      "Abdulkadir Turgut"
+    ],
+    "publication_date": "2026-03-06"
+  },
+  {
+    "id": "41784098",
+    "type": "pubmed",
+    "title": "Effect of Recombinant Tissue-Type Plasminogen Activator on Peripheral Blood Mononuclear Cells of Patients With Alteplase-Associated Angioedema.",
+    "abstract": "Recombinant tissue-type plasminogen activator (R-tPA) is a thrombolytic agent used to treat acute ischemic stroke (IS). A rare but serious adverse effect of R-tPA is angioedema, which is characterized by plasma extravasation and increased release of vasoactive factors such as bradykinin, vascular endothelial growth factor A (VEGF-A), CXCL8, angiopoietin-1 (ANGPT-1), and ANGPT-2. Objective: To investigate whether R-tPA modulates immune cell activity differently in IS patients with and without angioedema, focusing on the release of vasoactive mediators from human peripheral blood mononuclear cells (PBMCs).\nPBMCs were isolated from 7 healthy controls (HCs), 7 IS patients without angioedema, and 7 IS patients who developed angioedema during R-tPA treatment (ISAE). The production and/or release of CXCL8, VEGF-A, ANGPT-1, and ANGPT-2 following ex vivo stimulation with R-tPA was measured. Plasma levels of these mediators were also assessed in ISAE patients during both angioedema attacks and remission.\nR-tPA inhibited the spontaneous release of VEGF-A, ANGPT-1, and ANGPT-2 from the PBMCs of HCs and IS patients. In contrast, a significant increase in the release of these mediators after stimulation with R-tPA was observed in PBMCs from ISAE patients. Plasma concentrations of all 4 mediators were higher during angioedema attacks than in remission, with a statistically significant elevation recorded for ANGPT-2.\nThese preliminary data suggest that R-tPA-related angioedema may result from abnormal immune cell activation, leading to increased release of vasoactive mediators. This immune dysregulation may contribute to the pathophysiology of angioedema in susceptible IS patients treated with R-tPA.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Francesco Palestra",
+      "Maria Bova",
+      "Giovanna Servillo",
+      "Massimiliano Chetta",
+      "Renato Ciardi",
+      "Paolo Candelaresi",
+      "Marina Tarsitano",
+      "Chiara Suffritti",
+      "Roberta Gualtierotti",
+      "Stefania Miniello",
+      "Anne L Ferrara",
+      "Gilda Varricchi",
+      "Raimondo Cavallaro",
+      "Vincenzo Andreone",
+      "Stefania Loffredo"
+    ],
+    "publication_date": "2026-03-05"
+  },
+  {
+    "id": "41774150",
+    "type": "pubmed",
+    "title": "Discrepancies of results for post infusion levels of extended half-life factor VIII/IX concentrates - a cause of concern, awaiting for solution.",
+    "abstract": "Hemophilia A and B are X-linked hemorrhagic disorders, characterized by low/dysfunctional factor (F)VIII or FIX, respectively. The history of hemophilia treatment has evolved remarkably over time from the introduction of cryoprecipitate in the 1960s to plasma-derived factors in the 1970s. The 1980s brought a tragic chapter, as many plasma-derived products were contaminated with blood-borne viruses. In response to ongoing safety concerns, recombinant factors were developed in the 1990s. However, coagulation factors had a relatively short half-life upon infusion. As technology progressed, extended half-life factors were introduced in the 2010s. More recently, the development of non-transfusional therapies such as emicizumab has revolutionized prophylaxis. Additionally, gene therapy is emerging as a potentially curative approach. Despite these advances, discrepancies in laboratory assays have emerged as a significant challenge. Treatments employing extended half-life products and/or gene therapy, may yield variable results depending on the type of assays used, typically one-stage clotting vs. chromogenic assays. These discrepancies can lead to confusion in monitoring factor levels and assessing treatment outcome. This article aims to review the current situation on results discrepancies recorded when measuring post infusion extended half-life factors with different methods and to provide guidance on options that may be adopted to minimize discrepancies.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Armando Tripodi",
+      "Cristina Novembrino",
+      "Flora Peyvandi"
+    ],
+    "publication_date": "2026-03-03"
+  },
+  {
+    "id": "41770364",
+    "type": "pubmed",
+    "title": "Optimizing pediatric ITP therapy: a real-world study on plasma concentration-guided eltrombopag dosing.",
+    "abstract": "Eltrombopag (ELT) is a second-line therapy for pediatric immune thrombocytopenia (ITP), but inter-individual variability in metabolism leads to wide plasma concentration differences at the same dose, affecting efficacy and adverse drug reactions (ADRs). To validate the feasibility of individualized drug regimens based on blood drug concentration guidance in pediatric persistent/chronic ITP (P/CITP) and to provide a new method of individualized treatment with eltrombopag for pediatric P/CITP. This prospective, observational cohort study enrolled 70 children with refractory persistent/chronic ITP (P/CITP) to evaluate the feasibility and value of plasma concentration–guided individualized dosing. Patients were assigned to a conventional group (dose titration by platelet counts and bleeding events) or an individualized group (dose adjustments additionally guided by ELT concentrations), with 6-month follow-up. Although no statistical significance was observed, the individualized group achieved a higher overall response rate (82.9% vs. 71.4%) and complete response rate (65.7% vs. 48.6%), with more stable platelet counts, fewer bleeding events, reduced requirements for concomitant/rescue therapy, and a lower incidence of ADRs (17.1% vs. 37.1%). Similarly, though not statistically significant, the individualized group had lower direct medical costs and improved cost-effectiveness. These findings suggest that plasma concentration-guided individualized ELT therapy may enhance therapeutic efficacy, improve safety profiles, and reduce medical costs, which represents a meaningful step toward precision medicine in the field of pediatric hematology.\nThe online version contains supplementary material available at 10.1007/s00277-026-06875-8.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Jia Li",
+      "Bo Liu",
+      "Nan Wang",
+      "Shuyue Dong",
+      "Jingyao Ma",
+      "Xiaoling Wang",
+      "Peng Guo",
+      "Runhui Wu",
+      "Xiaoling Cheng"
+    ],
+    "publication_date": "2026-03-02"
+  },
+  {
+    "id": "41766564",
+    "type": "pubmed",
+    "title": "Factor II and Factor V Deficiencies: Current Management, Care Gaps and Call to Action for Therapeutic Advances.",
+    "abstract": "Among rare inherited coagulation disorders (RICDs), prothrombin (factor II) and factor V (FV) deficiency are still orphans of treatments, lacking availability of single-factor replacement products. This clinical care gap is hampering the implementation of prophylactic and episodic treatment regimens in patients.\nWe chose to produce a narrative review to evaluate to which degree bleeding prophylaxis, that is the standard of care for inherited coagulation disorders, has been implemented in these RICDs with the currently available therapeutics, that is fresh frozen plasma and prothrombin complex concentrates. The outcome of the episodic treatment of acute bleeding episodes and invasive procedures was also reviewed.\nPerusal of the published case reports shows a paucity of prophylaxis implementation even after life-threatening bleeding episodes such as intracerebral hemorrhage and ovulation-associated hemoperitoneum: only seven cases for prothrombin and three for FV deficiency. By the same token, there are relatively few reports on the acute treatment of bleeding episodes (particularly for prothrombin deficiency), as well as on the episodic treatment at the time of surgery or invasive procedures.\nOur review indicates that currently available therapeutics are largely suboptimal and justify a call to action in order to streamline regulatory pathways for single-factor concentrate development, as well as for the potential evaluation of prophylaxis of coagulation-rebalancing, non-replacement products.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Samantha Pasca",
+      "Massimo Franchini",
+      "Pier Mannuccio Mannucci"
+    ],
+    "publication_date": "2026-03-02"
+  },
+  {
+    "id": "41741057",
+    "type": "pubmed",
+    "title": "Pathogen-Reduce Cryoprecipitate: An Overview of Method(s) in Pathogen Reduction, Transfusion-Transmitted Infection Risk, and Inventory Management Considerations.",
+    "abstract": "Cryoprecipitated-AHF is a blood derivative produced from plasma donations. It is been used to treat Hemophilia A, von Willebrand disease, and congenital/acquired hypofibrinogenemia, and historically implicated with transmission of serious infectious diseases. As testing and treatment modalities have improved, treatment indications have narrowed considerable, but it still carries the highest potential risk of transfusion-transmitted infection (TTI). Pathogen-reduced cryoprecipitate availability has virtually eliminated the risk of pathogen transmission and extended the shelf-life to minimize waste in clinical practice. This article reviews methods of pathogen reduction, their effectiveness at reducing TTIs, and examine real-world experience of its implementation on inventory management.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Jay P Hudgins"
+    ],
+    "publication_date": "2026-03-01"
+  },
+  {
+    "id": "41734776",
+    "type": "pubmed",
+    "title": "Analysis of Soluble and Humoral Immunological Parameters During Re-exposure with rFVIIIFc after History of Inhibitors.",
+    "abstract": "Little is known on the mechanisms of tolerance to factor VIII (FVIII) in haemophilia A (HA) patients. To identify immunological markers in tolerance development, samples from two patients with HA treated with rFVIIIFc after a history of inhibitors were analyzed. The patients have been followed closely during re-exposure with FVIII as part of immune tolerance induction. Plasma samples were analyzed for FVIII inhibitors and FVIII-specific antibodies. Analysis of further immunological markers was performed for patient 2 using peripheral blood mononuclear cells (PBMCs); additionally, cytokines in cell culture media were quantified. Laboratory data were compared to pharmacological parameters and clinical outcome.Both patients showed a decline in FVIII recovery (exposure day [ED] 12 for patient 1, ED 25 for patient 2). During that time patient 2 was positive for lupus anticoagulants and a low amount of FVIII-specific antibodies was detectable in ELISA. However, specificity could not be verified by competition and antibodies disappeared again after ED 25. Patient 1 developed FVIII-specific antibodies of subclass IgG4 after ED 229. Antibodies were mainly directed against the FVIII light chain. FVIII-responsive CD4 + T-cells were detectable in the patient's PBMCs. Additionally, PMBCs showed an elevated production of IL-23 and TNF-α when stimulated with FVIII.A prospective analysis of the described parameters might help to identify the onset of an immune response. Even though the number of analyzed patients is low, the detailed analyses may help to further understand the development of tolerance to FVIII and to define starting points for further interventions against treatment complications through inhibitor development in HA.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Anja Schmidt",
+      "Stephan Schultze-Strasser",
+      "Diana Stichel",
+      "Aleksander Orlowski",
+      "Christine Heller",
+      "Christoph Königs"
+    ],
+    "publication_date": "2026-02-24"
+  },
+  {
+    "id": "41704799",
+    "type": "pubmed",
+    "title": "Factor VIII in vitro bioequivalence of denecimig (Mim8) hemostatic effect by thrombin generation assays.",
+    "abstract": "Denecimig (Mim8, Novo Nordisk A/S) is a next-generation bispecific antibody designed to mimic activated factor (F)VIII and restore hemostasis in persons with hemophilia A. The extent to which activated FVIII mimetics, such as denecimig and emicizumab, can correct clotting deficiency remains unclear.\nTo assess the in vitro FVIII bioequivalence of denecimig hemostatic activity using thrombin generation assays (TGAs).\nThrombin generation was analyzed in severe hemophilia A platelet-poor plasma, spiked with various levels of FVIII or with clinical doses of denecimig (5 μg/mL) or emicizumab (50 μg/mL), using a sequence-identical analog (SIA). TGA used 4 trigger conditions: tissue factor (TF), activated FXI, a combination of TF and activated FXI, or activated FIX.\nThe average FVIII bioequivalence estimate using 1 pM TF trigger was 42 IU/dL (SD, 14) for 5 μg/mL denecimig and 14 IU/dL (SD, 5) for 50 μg/mL emicizumab-SIA using peak thrombin. The FVIII bioequivalence estimates of denecimig and emicizumab-SIA for hemostatic activity were generally highest for endogenous thrombin potential, followed by peak thrombin and velocity index across trigger concentrations. FVIII bioequivalence increased with decreasing trigger concentrations. Denecimig demonstrated a higher thrombin peak in conditions with limited activated FIX compared with emicizumab-SIA, suggesting differences in mechanisms of action.\nEstimation of denecimig in vitro FVIII bioequivalence with TGA depends on the TGA parameter and the type and concentration of the trigger. Denecimig demonstrated higher in vitro FVIII bioequivalence than emicizumab-SIA, indicating the potential for effective hemostatic coverage. Further studies are needed to fully understand the hemostatic effects of bispecific antibodies.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Jacob Lund",
+      "Mirella Ezban",
+      "Kasper Jensen",
+      "David Lillicrap"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41702388",
+    "type": "pubmed",
+    "title": "Thrombin Generation Assays: Possibilities and Limitations.",
+    "abstract": "Thrombin generation assays (TGA) provide a dynamic and integrative assessment of thrombin generation in clotting plasma ex vivo. The method is characterized by triggering coagulation, typically via the extrinsic pathway, and continuously measuring thrombin activity using a fluorogenic peptide substrate to derive key parameters such as peak thrombin and the endogenous thrombin potential. Several assay platforms are currently available, with the original Calibrated Automated Thrombogram (CAT) still being widely used in clinical and research settings, not least due to its flexibility and ability to analyze both platelet-poor as well as platelet-rich plasma. Thrombin generation assays have the potential to support the evaluation and monitoring of treatment of bleeding disorders, including hemophilia A and B and other inherited or acquired coagulation factor deficiencies. They may contribute to risk stratification in thrombotic disorders, and support the assessment of anticoagulant therapies. However, besides ongoing developments and optimization of trigger reagents, inter-assay variability and susceptibility to pre- and analytical variables challenge assay standardization and inter-laboratory comparability. Continued refinement, harmonization, and prospective clinical validation will be essential to unlock the full diagnostic potential of TGA.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Behnaz Pezeshkpoor",
+      "Johannes Oldenburg",
+      "Jens Müller"
+    ],
+    "publication_date": "2026-02-01"
+  },
+  {
+    "id": "41702298",
+    "type": "pubmed",
+    "title": "Efficacy and safety of prophylaxis and treatment of bleeding events with a novel fibrinogen concentrate from human plasma in patients with congenital fibrinogen deficiency.",
+    "abstract": "Congenital fibrinogen deficiency is a rare inherited coagulation disorder characterized by partial or total lack of plasma fibrinogen (hypo- or afibrinogenemia), or expression of dysfunctional fibrinogen (dysfibrinogenemia), which may cause plasma level reduction (hypodysfibrinogenemia). Loss of functional fibrinogen causes bleeding disposition. In case of trauma or surgical intervention, supplementation of human fibrinogen is required to stop or prevent extensive bleeding events.\nA prospective, open-label, uncontrolled, multi-center phase I/III trial was performed to investigate pharmacokinetics, efficacy and safety of single and/or repetitive intravenous infusions of a human fibrinogen concentrate (BT524) for on-demand prophylaxis (ODP) and/or on-demand treatment (ODT) of bleeding events in patients with congenital fibrinogen deficiency.\nIn the phase III part of the trial reported here, 36 patients (3 children <6 years, 9 children 6-12 years, 4 adolescents and 20 adults) were treated with BT524 for 175 bleeding events, either for ODP or ODT.\nFibrinogen concentrate infusion substantially improved maximum clot firmness (MCF). The overall hemostatic response was rated as good or excellent in 98.9% of bleedings. Loss of blood was considered normal in the majority of surgical interventions, and wound healing was also positively assessed. Additional evaluations, including blood product consumption and adverse events, further supported the efficacy and confirmed the favorable safety profile of the novel fibrinogen product.\nBT524 represents a novel human fibrinogen concentrate provenly efficacious and safe both for the treatment of bleeding and for peri-operative bleeding prophylaxis in patients with congenital fibrinogen deficiency of all ages.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Claudia Djambas Khayat",
+      "Amal El-Beshlawy",
+      "Naglaa Omar",
+      "Emna Gouider Belhadjali",
+      "Abderrahim Khelif",
+      "Sonia Adolf",
+      "Wolfgang Miesbach",
+      "Silke Aigner",
+      "Salomon Abraha",
+      "Joerg Schuettrumpf",
+      "Heike Boehm"
+    ],
+    "publication_date": "2026-03-01"
+  },
+  {
+    "id": "41692093",
+    "type": "pubmed",
+    "title": "A chemiluminescent microfluidic thrombin generation assay for real-time monitoring in patient plasma.",
+    "abstract": "The thrombin generation assay (TGA) is a global coagulation test able to determine the amount of thrombin formed in plasma samples. TGA has been shown to be useful to monitor the effect of procoagulant and anticoagulation therapies in patients with bleeding diatheses or an increased thrombosis risk.\nThis study describes a new miniaturized platform to measure chemiluminescent-based microfluidic thrombin generation assay (TGA lum ).\nIn TGA lum , generated thrombin cleaves a β-Ala-Gly-Arg tripeptide from a caged aminoluciferin moiety, which almost instantaneously results in the generation of a photon by luciferase. The number of photons generated is proportional to the activity of thrombin in the microfluidic TGA lum system. By printing the assay components, a microfluidic cartridge was functionalized for TGA lum . By only applying 20 μL of citrated plasma to the microfluidic cartridges, thrombin generation was monitored successfully with the characteristic peak profile in 110 nL detection chambers using a prototype readout device.\nThe TGA lum was shown to be sensitive to therapeutic levels of anticoagulants (direct oral anticoagulants [DOACs]) to prevent thrombosis, as well as to the reversal effects of the antidotes thereof. Furthermore, TGA lum was able to detect the defect in the plasma of patients with hemophilia A (pwHA), as well as the hemostatic replacement effect of factor VIII infusion in pwHA.\nThis study provides proof-of-concept that the present microfluidic TGA lum is applicable for monitoring therapy of pwHA at a global level and monitoring anticoagulant therapy with DOACs using a portable readout device.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Theodora J Steeghs",
+      "Lisa van Engelshoven",
+      "Nerissa M M Coolen",
+      "Claudia J van de Ridder",
+      "Henriëtte W Huijzer",
+      "Mark van Geffen",
+      "Nicole M A Blijlevens",
+      "Saskia E M Schols",
+      "Cornelis van 't Veer",
+      "Waander L van Heerde"
+    ],
+    "publication_date": "2026-02-13"
+  },
+  {
+    "id": "41658978",
+    "type": "pubmed",
+    "title": "Mutations of six amino acid residues in a B domain-deleted blood coagulation factor VIII have a cumulative effect on increasing its secretion.",
+    "abstract": "High levels of factor VIII (FVIII) expression are needed for various applications to treat Hemophilia A. Besides deletion of the B-domain (BDD) and codon-optimization, F309S mutation, and other 5 mutations (X5) in FVIII were previously described to increase its expression.\nTo investigate whether combining the 6 aforementioned mutations (X6) results in a further increase of FVIII expression.\nThe 5 (X5) and 6 (X6) mutations were introduced into a BDD-FVIII (wild-type [WT]), and proteins were expressed in cell cultures with different transgene copy numbers, purified, and tested for specific activity, binding to von Willebrand factor and a low-density lipoprotein receptor-related protein fragment, tyrosine sulfation levels and immunogenicity in silico and in human T-cell culture. The 6 mutations were also reproduced in full-length FVIII (FL-FVIII) and tested for secretion levels.\nFrom the single-copy transgene cell lines, secretion levels of X5 and X6 increased 1.6-fold and 2.3-fold, respectively, compared with WT. These levels increased proportionally with increasing transgene copy number, approaching saturation. The specific activity, binding to von Willebrand factor and lipoprotein receptor-related protein fragment, and assessments of immunogenicity of X6 in model systems were similar to WT, while tyrosine sulfation levels, were moderately lower at the highest gene dose. However, the 6 mutations reproduced in FL-FVIII did not result in increased secretion.\nCombining the 6 mutations in BDD-FVIII improved its expression and did not affect general protein properties, making it promising for future product development. The data also indicate that BDD-FVIII and FL-FVIII have different expression mechanisms.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Bo Shi",
+      "Philip Olivares",
+      "Leonid A Parunov",
+      "Yideng Liang",
+      "Haarin Chun",
+      "Wells W Wu",
+      "Vijaya L Simhadri",
+      "Pratima Bajgain",
+      "Wojciech Jankowski",
+      "Margarita Krivega",
+      "Julia Poniatowski",
+      "Elizabeth Del Greco",
+      "Ivan Krivega",
+      "Svetlana A Shestopal",
+      "Abu Hasanat Md Zulfiker",
+      "Zuben E Sauna",
+      "Andrey G Sarafanov"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41643195",
+    "type": "pubmed",
+    "title": "NXTAGE: a phase 1/2 study of NXT007 to assess safety, pharmacokinetics, and efficacy in hemophilia A without inhibitors.",
+    "abstract": "NXT007 is a next-generation, activated factor VIII (FVIIIa)-mimetic bispecific antibody under investigation in the phase 1/2 NXTAGE trial (jRCT2080224835). Here, we report the primary analysis of the multiple-ascending-dose Part B in people with hemophilia A (PwHA). Eligible participants were men with severe HA without FVIII inhibitors. Four dose cohorts (B1-B4) were planned, with NXT007 administered subcutaneously at maintenance doses of 0.072 mg/kg, 0.28 mg/kg, 0.70 mg/kg, and 1.08 mg/kg, respectively, every 4 weeks. Primary endpoints were safety (adverse events [AEs] and serious AEs [SAEs]), tolerability, pharmacokinetics, pharmacodynamics, and efficacy; secondary endpoints included incidence of anti-NXT007 antibodies (ADAs). Participants in cohorts B1 (n=10), B2 (n=6), B3 (n=6), and B4 (n=8) had received NXT007 for a median (minimum-maximum) of 114.1 (29-140), 96.4 (88-112), 58.1 (52-72), and 22.2 (4-28) weeks, respectively. Two participants discontinued treatment: NXT007-unrelated AE (n=1) and complete loss of NXT007 exposure due to ADAs (n=1). Participants' plasma NXT007 concentration showed a dose-dependent increase, and predicted FVIII-equivalent activity reached a non-hemophilic level (≥40 IU/dL) in B2 onwards. NXT007 had a favorable safety profile at all doses. Most AEs were mild/moderate and all three SAEs were considered unrelated to NXT007. Mean annualized treated bleed rates were 1.48 (B1), 0.28 (B2), 0.00 (B3), and 0.00 (B4). Pharmacokinetics-affecting NXT007 ADAs were observed in two participants, including the participant in B1 who discontinued. NXTAGE Part B demonstrates that NXT007 could provide non-hemophilic coagulation activity in PwHA, with a less burdensome dose regimen than currently available therapies.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Keiji Nogami",
+      "Chur-Woo You",
+      "Young-Shil Park",
+      "Yeu-Chin Chen",
+      "Ming-Ching Shen",
+      "Jiaan-Der Wang",
+      "Masahiro Takeyama",
+      "Kagehiro Amano",
+      "Sheng-Chieh Chou",
+      "Takuya Miwa",
+      "Chun-An Chen",
+      "Takeshi Miyake",
+      "Keisuke Iwasaki",
+      "Ryota Kobayashi",
+      "Midori Shima"
+    ],
+    "publication_date": "2026-02-05"
+  },
+  {
+    "id": "41624242",
+    "type": "pubmed",
+    "title": "Augmented emicizumab-driven coagulation potential in hemophilia A state by in vitro and in vivo supplementation of combined factors IX and X.",
+    "abstract": "Persons with hemophilia A (HA) and inhibitors undergoing emicizumab prophylaxis require bypassing agents when breakthrough bleeding occurs. Recent studies have demonstrated that either factor (F)IX or FX supplementation can improve coagulation potential of emicizumab-treated persons with HA and inhibitors.\nThis study assessed the effect of combined supplementation with FIX and FX on the coagulation potential in emicizumab-treated HA state.\nFVIII-deficient plasmas were spiked with emicizumab (50 μg/mL), FX (100 IU/dL), and various FIX levels (100-1600 IU/dL). Plasmas from emicizumab-treated persons with HA and inhibitors were also added with FIX/FX (100 IU/dL each). Coagulation potential was assessed by maximum coagulation velocity (Ad|min1|) using tissue factor (TF)/ellagic acid-triggered clot waveform analysis and peak thrombin (PeakTh) using TF-triggered thrombin generation assay. For in vivo method, emicizumab (3 mg/kg) and human (h)FIX/hFX (100 IU/kg each) were intravenously administered to HA mice (emicizumab-HA mice). Coagulation potentials in these mice with or without additional hFIX/hFX (100 IU/dL each) were assessed by clotting time plus clot formation time (CT + CFT) and blood loss using rotational thromboelastometry and tail-clip assay.\nAd|min1| and PeakTh in FVIII-deficient plasmas with emicizumab, FIX, and FX increased in FIX dose dependently. Addition of FIX and FX (100 IU/dL each) to emicizumab-supplemented FVIII-deficient plasma and plasma of emicizumab-treated persons with HA and inhibitor improved both parameters to normal levels. CT+CFT and blood loss in emicizumab-HA mice with additional hFIX/hFX (100 IU/dL each) administration were significantly shorter and decreased than those in emicizumab-HA mice. The thrombotic markers largely did not change.\nCombined FIX and FX supplementation could enhance coagulation potential in emicizumab-treated persons with HA and inhibitors.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Mitsumasa Osuna",
+      "Yuto Nakajima",
+      "Eisuke Takami",
+      "Hirotoshi Nakano",
+      "Keiji Nogami"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41624237",
+    "type": "pubmed",
+    "title": "Direct oral anticoagulant interference and removal in the factor VIII inhibitor assay.",
+    "abstract": "Direct oral anticoagulants (DOACs) interfere with clot-based assays, including factor (F)VIII testing and the Nijmegen-Bethesda assay, potentially leading to false-positive results for FVIII inhibitors. Misinterpretation of these results carries serious clinical consequences. Activated charcoal-based products, such as DOAC Remove, may restore assay accuracy, but data supporting their use in FVIII inhibitor assays are limited.\nIn this study, we aim to determine DOAC interference in FVIII inhibitor testing and evaluate effectivity of DOAC removal to restore assay reliability.\nNormal pooled plasma was spiked with therapeutic and supratherapeutic concentrations of apixaban, edoxaban, rivaroxaban, and dabigatran. Plasma pools from persons with acquired hemophilia A were spiked with DOACs and retested with and without DOAC removal treatment to evaluate workflow performance. FVIII inhibitor activity was measured with and without activated charcoal-based DOAC removal to establish DOAC interference and removal efficacy.\nSpiking experiments with DOACs caused concentration-dependent false-positive FVIII inhibitor results (>0.6 Nijmegen Bethesda Units/mL), with dabigatran showing the strongest interference and apixaban the weakest. DOAC removal substantially reduced or eliminated interference across all drugs. Post-removal FVIII inhibitor values closely matched baseline concentrations in both spiked normal pooled plasma and pooled patient plasma, with most results within ±20% of the assay variability.\nDOACs significantly interfere with FVIII inhibitor assays, potentially causing clinically significant false-positive results. Activated charcoal-based DOAC removal treatment provides a practical solution to restore assay reliability. These findings support the integration of DOAC removal into anti-FVIII testing protocols for patients on anticoagulant therapy.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Rick Timmerije",
+      "Saskia E M Schols",
+      "Daniëlle Meijer",
+      "Wideke Barteling",
+      "An K Stroobants",
+      "Sanna R Rijpma"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41624236",
+    "type": "pubmed",
+    "title": "Factor VIII and von Willebrand factor activity levels during long-term prophylaxis with wilate-Analyses from the WIL-31 study.",
+    "abstract": "Long-term von Willebrand factor (VWF) prophylaxis is recommended for people with von Willebrand disease (VWD) who experience frequent and severe bleeds. However, repeated administration of VWF-containing concentrates may lead to VWF and/or factor (F)VIII accumulation, with an increased thrombotic risk. Data on FVIII and VWF accumulation during prophylaxis in VWD are lacking.\nThis study analyzed FVIII and VWF activity levels during long-term prophylaxis with wilate, a plasma-derived VWF/FVIII concentrate containing VWF and FVIII in a physiological 1:1 activity ratio, in the prospective WIL-31 study.\nPreinjection and postinjection FVIII and VWF activity levels were measured in plasma at baseline and after 1, 2, 3, 6, 9, and 12 months of wilate in the 33 patients who completed WIL-31. Analyses were descriptive and included stratification by age and VWD type.\nVWF and FVIII activity levels (IU/dL) remained stable during 12 months of prophylaxis. Mean (SD) VWF activity levels preinjection and postinjection were 6.7 (4.0) and 59.0 (28.7) at baseline and 8.6 (7.6) and 44.4 (20.5) at 12 months, respectively. For FVIII, levels were 13.2 (18.9) and 75.5 (31.3) at baseline and 27.5 (25.6) and 83.6 (30.0) at 12 months, respectively. Similarly, when stratified by age and VWD type, no accumulation of either factor was observed. No thrombotic events were reported.\nDuring 12 months of wilate prophylaxis, there was no accumulation of FVIII or VWF regardless of age and VWD type, and no thrombotic events were reported. These findings from WIL-31 confirm and extend wilate's existing safety data.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Robert F Sidonio",
+      "Ana Boban",
+      "Claudia Djambas Khayat",
+      "WIL-31 Study Investigators"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41615376",
+    "type": "pubmed",
+    "title": "Investigation of the Suitability of the ROTEM Assay to Measure Coagulation Potential in Blood From Patients on Concizumab Prophylaxis.",
+    "abstract": "Rotational thromboelastometry (ROTEM) aims to measure the coagulation potential in whole blood. Concizumab, an anti-tissue factor pathway inhibitor (TFPI) antibody for prophylaxis in haemophilia, enhances tissue factor (TF)-initiated coagulation by preventing inhibition of activated factor X (FXa), thus increasing thrombin generation.\nTo evaluate a modified ROTEM assay for monitoring patients on concizumab prophylaxis.\nThe TF reagent (r_exTEM) was diluted 50,000-fold to make the ROTEM assay sensitive to haemophilia and to concizumab. The effect of concizumab was evaluated in the modified ROTEM in haemophilia A (HA)-like blood (normal blood with added anti-FVIII antibody). ROTEM analysis was performed in blood from patients participating in the explorer7/8 trials during 24 weeks of concizumab prophylaxis. Rotrol N plasma was used as quality control.\nIn vitro experiments showed concizumab concentration-dependent reduction in clot time (CT) and increase in clot development (α-angle) in HA-like blood. At three of four clinical sites, CT and clot development were stable, variance of the control plasma was ≤12.4% and TF content of the diluted reagent (r_exTEM) was consistent. At these three sites, the correlation between CT versus concizumab exposure, free TFPI and thrombin generation assay parameters was weak (-0.508 to +0.359). Prothrombin time positively correlated with CT (0.523) and negatively correlated with α-angle (-0.659).\nDue to the poor correlation between ROTEM parameters, concizumab exposure, free TFPI and thrombin generation parameters and the lack of consistent and reliable performance of the modified ROTEM assay, it cannot be recommended for general monitoring of patients on concizumab prophylaxis.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Hermann Eichler",
+      "Nora V Butta",
+      "Anne Riddell",
+      "Cecilia Augustsson",
+      "Marianne Kjalke",
+      "Kasper Jensen",
+      "Andrea Paramo-Florencio",
+      "Jan Astermark",
+      "Pratima Chowdary",
+      "Victor Jiménez-Yuste"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41614378",
+    "type": "pubmed",
+    "title": "Efficacy and Safety of Prophylaxis With a Plasma-Derived von Willebrand Factor/Factor VIII Concentrate (Wilate) in Patients With Type 3 von Willebrand Disease-A WIL-31 Study Sub-Analysis.",
+    "abstract": "The WIL-31 study demonstrated efficacy and safety of prophylaxis with the plasma-derived von Willebrand factor/factor VIII concentrate wilate in von Willebrand disease (VWD) of all types and was the only prospective study with an on-demand run-in study as an intra-individual comparator. This subgroup analysis examines the efficacy of wilate prophylaxis in patients with type 3 VWD in WIL-31.\nPatients received 20-40 IU/kg wilate prophylaxis 2-3 times weekly for 12 months.\nTwenty-two patients in WIL-31 had type 3 VWD. Mean total annualized bleeding rate (ABRs) during on-demand versus prophylaxis was 37.1 versus 5.2 (86% reduction). During prophylaxis, 115 bleeds occurred, most (95%) of which were minor; the most common bleeding site was the nose (40% of bleeds). Mean overall spontaneous ABRs during on-demand versus prophylaxis were 26.5 versus 2.8 (89% reduction); mean treated spontaneous ABRs were 20.3 versus 1.4, respectively (93% reduction). ABRs were reduced further during the second 6 months of prophylaxis versus the first 6 months. Results were consistent in subgroups by age. No serious adverse events related to study treatment and no thrombotic events were observed.\nProphylaxis with wilate was effective and well tolerated in patients with type 3 VWD, in all age groups.\nNCT04052698; https://clinicaltrials.gov/study/NCT04052698.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Claudia Djambas Khayat",
+      "Leonid Dubey",
+      "Adlette Inati",
+      "Toshko Lissitchkov",
+      "Dzmitry Novik",
+      "Elina Peteva",
+      "Robert F Sidonio",
+      "Ali T Taher",
+      "Kateryna V Vilchevska",
+      "Vladimir Vdovin",
+      "Ana Boban"
+    ],
+    "publication_date": "2026-05-01"
+  },
+  {
+    "id": "41613626",
+    "type": "pubmed",
+    "title": "Nine areas with outstanding challenges for hemophilia B research.",
+    "abstract": "Hemophilia A and B are rare, X-linked bleeding disorders characterized by deficiencies in coagulation factor VIII (FVIII) and factor IX (FIX), respectively. Numerous advances have helped to reduce disease burden. However, hemophilia B is not as well studied as hemophilia A, likely reflecting its lower prevalence. Clinical management of hemophilia B has often relied on inference and extrapolation from hemophilia A. Despite being part of the same tenase complex, as enzyme (FIX) and cofactor (FVIII) when activated, with the main task being to activate factor X in the intrinsic pathway, the FIX and FVIII proteins display several molecular differences. These have the potential to impact the clinical phenotype of hemophilia, affect monitoring, and influence treatment options. Consequently, hemophilia B presents several outstanding challenges, requiring a greater degree of understanding and/or attention across a range of areas. Some of these challenges relate to the FIX molecule, with more knowledge needed in relation to: the biological/clinical impact of underlying genetic changes; hemostatic implications of the extravascular distribution of FIX; and FIX clearance. Other challenges relate to clinical management: determining the best ways to monitor the true biological activity of FIX; clarifying the relationship between FIX plasma levels and clinical outcomes when treating patients; inhibitors; affected girls and women; and appreciating the value of novel treatment approaches, while considering possible breakthrough bleeds, thrombosis, and monitoring. In addition, concerted effort is required to address global disparities, which can particularly affect hemophilia B. Identifying such challenges may help to facilitate research that will further existing knowledge, with better understanding being crucial for achieving health equity between hemophilia A and B.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Jan Astermark",
+      "Cédric Hermans",
+      "Peter J Lenting",
+      "James S O'Donnell",
+      "Factor Think Tank"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41607355",
+    "type": "pubmed",
+    "title": "Endothelial thrombomodulin-Its role in trauma-induced coagulopathy.",
+    "abstract": "Trauma-induced coagulopathy (TIC) describes a complex set of coagulation changes affecting severely injured patients. The thrombomodulin-protein C axis is central to the evolution of TIC. Soluble thrombomodulin (sTM) levels are elevated after injury and predict poor clinical outcomes. Recently, a heritable bleeding disorder defined by injury-related excessive bleeding, markedly elevated sTM and a THBD mutation has been described. The clinical phenotype broadly mirrors that of trauma hemorrhage, and we hypothesized that their endothelial colony forming cells (ECFCs) could be used to model trauma-induced endothelial damage.\nOur objectives were to: (a) define the hemostatic capacity of wild type (WT-) and THBD variant (MT-) ECFCs, using global hemostatic assays, (b) determine the hemostatic changes on ECFC surfaces after exposing cells to trauma stimuli, (c) evaluate the contributions of traumatized ECFCs and trauma patient plasma to overall hemostatic capacity, to better understand the injured endothelial-coagulation interface.\nWe show that trauma stimuli cause significant, rapid shedding of TM from WT-cells and this reduced membrane-TM supports quicker fibrinolysis and greater thrombin generating capacity. Combining trauma plasma with traumatized ECFCs attenuates and/or negates these effects.\nThis ECFC model provides novel mechanistic insights into TIC at the endothelial surface, informing future treatment strategies.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Jeries Abu-Hanna",
+      "Gael B Morrow",
+      "Gang Xu",
+      "Lewis Timms",
+      "Naveed Akbar",
+      "Michael Laffan",
+      "Robin P Choudhury",
+      "Nicola Curry"
+    ],
+    "publication_date": "2026-01-29"
+  },
+  {
+    "id": "41573577",
+    "type": "pubmed",
+    "title": "Transplanted gene-modified placental cells boost FVIII activity in pediatric sheep without eliciting immunity, toxicity, or adverse events.",
+    "abstract": "The current standard of care for Hemophilia A (HA), a hereditary bleeding disorder caused by mutations in the Factor VIII (F8) gene, include FVIII replacement proteins, engineered clotting factors, and a broad array of new therapeutics including antibodies and gene therapy. These therapies allow persons with HA (PHA) to have near normal life expectancies, but the burden of disease continues to be high, with 30% of PHA developing FVIII inhibitors, considerably increasing the risk of morbidity and mortality.\nThe present study tested the ability of human placental cells (PLC), transduced with a lentivector encoding a codon-optimized, bioengineered FVIII transgene (mcoET3) (PLC-mcoET3) to increase FVIII activity levels after administration to pediatric large animals. In addition, we determined whether administration of PLC-mcoET3 would induce inhibitor formation, and defined how the immune response to infused human FVIII (hFVIII) or ET3 proteins differed from that of administration of PLC-mcoET3.\nPediatric sheep at 8-12 months of age were used in this study. PLC-mcoET3 providing 20 IU/kg of ET3/infusion/sheep were administered intravenously (IV) or intraperitoneally (IP), and control groups received the same dose/kg of purified recombinant ET3 or human full-length recombinant FVIII protein (hFVIII). Plasma FVIII activity, presence of anti-FVIII/ET3 humoral or cellular immune responses, and immunologic responses using a multiplexed gene expression panel were assessed.\nData show that while intravenous (IV) infusion of ET3 or hFVIII to pediatric sheep results in a high level of inhibitory antibodies, administration of PLC-mcoET3 IV is safe, and resulted in increased plasma FVIII activity for at least 15 weeks without the formation of anti-ET3/FVIII inhibitory antibodies.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Brady Trevisan",
+      "Martin Rodriguez",
+      "Ritu Ramamurthy",
+      "Sunil George",
+      "Oluwaseun O Babatunde",
+      "Jacqueline Dizon",
+      "Jordan Shields",
+      "Shannon Lankford",
+      "Denise Schwahn",
+      "Michael Gautreaux",
+      "Andrew Farland",
+      "John Owen",
+      "Anthony Atala",
+      "Christopher B Doering",
+      "H Trent Spencer",
+      "Christopher D Porada",
+      "Graça Almeida-Porada"
+    ],
+    "publication_date": "2025-01-01"
+  },
+  {
+    "id": "41563773",
+    "type": "pubmed",
+    "title": "Feasibility and outcomes of switching factor VIII therapies: post-hoc analysis of patients transitioning from older plasma-derived and first-generation recombinant factor VIII to newer third-generation recombinant factor VIII replacement therapies within the Takeda factor VIII portfolio.",
+    "abstract": "The recent discontinuation of antihemophilic factor Method M, monoclonally purified (AHF-M) and recombinant antihemophilic factor (rAHF) requires evaluation of hemophilia A treatment strategies for some patients. This post-hoc analysis characterized the safety and efficacy of third-generation recombinant factor VIII (FVIII) products (antihemophilic factor [recombinant], plasma/albumin-free method [rAHF-PFM] and PEGylated rAHF [rAHF-PEG]) after switching from plasma-derived AHF-M or first-generation rAHF.\nPreviously treated patients from three trials (rAHF-PFM: two; rAHF-PEG: one) whose last recorded FVIII replacement therapy was either AHF-M or rAHF were included. Bleeding outcomes, consumption, hemostatic efficacy, safety, and immunogenicity were evaluated.\nOf 114 participants, 19 were previously treated with AHF-M and 95 with rAHF; 97 participants transitioned to rAHF-PFM and 17 to rAHF-PEG. Participants switching to rAHF-PEG prophylaxis achieved lower bleeding rates compared with previous prophylaxis. Most bleeding events were treated with one to two infusions of rAHF-PFM or rAHF-PEG with good or excellent hemostatic efficacy ratings. No participants developed inhibitors to rAHF-PFM or rAHF-PEG.\nResults from this post-hoc analysis demonstrated improvements in bleeding outcomes in participants switching to rAHF-PEG and were consistent with the original trial results, supporting the feasibility of transitioning from the older- to newer-generation Takeda FVIII replacement therapies.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Alicia Cerretani",
+      "Ian Robinson",
+      "Jonathan Shtaynberger",
+      "Jorge Caicedo",
+      "Caitlin Montcrieff",
+      "Leonard A Valentino"
+    ],
+    "publication_date": "2026-04-01"
+  },
+  {
+    "id": "41560780",
+    "type": "pubmed",
+    "title": "Platelet function abnormalities in acquired hemophilia A.",
+    "abstract": "The bleeding pattern in acquired hemophilia A (AHA) differs from that of inherited hemophilia, being characterized by soft tissue and muscle hematomas, mucocutaneous bleeding, but seldom joint bleeding. Platelet function disorders are inherited or acquired. The acquired forms may appear in association with medications, medical conditions, and autoimmune disorders.\nWe chose to investigate platelet function in a series of patients with AHA due to autoantibodies inactivating coagulation factor (F)VIII.\nPlatelet function disorders were assessed at AHA diagnosis in platelet-rich plasma according to the Scientific Subcommittee of the International Society on Thrombosis and Haemostasis recommendations. In addition, the δ- and α-granule platelet content-that is, adenine nucleotides (ADP and ATP), serotonin and β-thromboglobulin-were measured. CD40L and soluble P-selectin were also measured in plasma to investigate in vivo platelet activation.\nIn 11 cases with AHA and a median age of 67 years, FVIII coagulant activity was unmeasurable, the inhibitor titer was <20 Bethesda Units in 5 cases (45%) and higher than 20 Bethesda Units in 6 cases (55%). All patients showed reduced platelet aggregation and secretion. Furthermore, 4 cases with monoclonal gammopathy of undetermined significance had worse aggregation responses and an abnormal δ-granule platelet content, supporting a diagnosis of δ storage pool disease. Following remission the intraplatelet levels of ADP and serotonin improved.\nThis study demonstrates that acquired platelet function abnormalities may be present in patients with AHA and perhaps contribute to the severity of their bleeding tendency.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Raffaella Rossio",
+      "Anna Lecchi",
+      "Silvia La Marca",
+      "Lidia Padovan",
+      "Roberta Gualtierotti",
+      "Cristina Novembrino",
+      "Chiara Suffritti",
+      "Sara Arcudi",
+      "Alessandro Ciavarella",
+      "Federico Boggio",
+      "Simona Maria Siboni",
+      "Flora Peyvandi"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41554518",
+    "type": "pubmed",
+    "title": "On Factor VIII Assay Discrepancies in Post-infusion Samples Obtained from Patients Treated with Efanesoctocog Alfa.",
+    "abstract": "Efanesoctocog alfa (efa) is a recombinant coagulation factor VIII (FVIII) concentrate, engineered for improved extended half-life in hemophilia A treatment. Its design results in discrepancies in FVIII diagnostic tests, as has so far been demonstrated using spiked sample material (efa added to FVIII-deficient plasma). The aim of the present study was to evaluate FVIII assay discrepancies in post-infusion samples obtained from patients treated with efa. This retrospective analysis included 43 male patients on efa prophylaxis (26 on once weekly and 17 on twice weekly treatment scheme) summoned for determination of incremental recoveries. FVIII activity was measured at trough (3.5 or 7 days post-infusion) and peak levels (30 minutes post-infusion) using three diagnostic tests: two one-stage clotting assays (OSCAs) based on Actin FSL (AFSL) or Actin FS (AFS), and a chromogenic substrate assay (FVIII CSA). Incremental recoveries as determined by the recommended AFSL-based OSCA were found to be comparable between patient groups. At peak levels (64 to 214 IU/dL), comparable overestimation (1.9-fold) of plasma efa activity relative to Actin FSL-based OSCA was observed for both, the AFS-based OSCA and the FVIII CSA. In contrast, at trough levels (5 to 64 IU/dL), rate of overestimation relative to the AFSL-based OSCA results was found to be lower for the FVIII CSA (1.3-fold) when compared with the AFS-based OSCA (1.9-fold). Further analysis demonstrated different behavior of spiked and post-infusion samples within the FVIII CSA. Future studies will reveal underlying mechanisms and assess if drug-specific calibration will sufficiently correct for this phenomenon.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Jens Müller",
+      "Martin Büchsel",
+      "Behnaz Pezeshkpoor",
+      "Heiko Rühl",
+      "Bernd Pötzsch",
+      "Claudia Klein",
+      "Georg Goldmann",
+      "Natascha Marquardt",
+      "Thilo Albert",
+      "Kerstin Herbst",
+      "Johannes Oldenburg"
+    ],
+    "publication_date": "2026-01-19"
+  },
+  {
+    "id": "41548246",
+    "type": "pubmed",
+    "title": "Characterization of allogeneic platelet gel from adult donor blood and umbilical cord blood activated with locally prepared cryoprecipitate and thrombin: A pilot exercise.",
+    "abstract": "Characterization of platelet gel (PG) from different blood sources and preparation methods remains incomplete.\nThis study compared the weight, growth factor (GF) content, and gelation dynamics (via rotational thromboelastometry, ROTEM) of allogeneic PG prepared from adult blood (AB) and cord blood (CB) platelet concentrates (PC). ABPC were suspended in 100% plasma or 35% plasma/65% platelet additive solution (PAS), while CBPC were suspended in 100% plasma. PG was prepared in commercial BioNest D mini-bags using a method with calcium gluconate, locally made cryoprecipitate, and thrombin (CT), or a reference method with calcium gluconate and commercial batroxobin (BA). PG was analyzed at 30 min and 6 h.\nAt 30 min, PG weights were higher with CT than BA across all conditions. With 5 mL ABPC in 100% plasma, weights were 7.20 ± 1.07 g (CT) versus 2.72 ± 0.19 g (BA); with 10 mL ABPC in PAS, 9.49 ± 2.86 g (CT) versus 3.87 ± 3.1 g (BA); and with 4.09 ± 0.45 mL CBPC, 5.62 ± 1.21 g (CT) versus 2.04 ± 0.78 g (BA). All PGs lost mass by 6 h, but CT consistently retained more weight. GF percent retention in the PG at 6 h was higher with CT. ROTEM results showed differences in clotting time and comparable values of maximum clot firmness between PG from AB and CB.\nThe CT method is a promising alternative for producing allogeneic PG using affordable, locally sourced reagents.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Larysa Mykhailova",
+      "Paolo Rebulla",
+      "Stefania Villa",
+      "Erica Scalambrino",
+      "Marigrazia Clerici",
+      "Armando Tripodi",
+      "Evelyn Ferri",
+      "Beatrice Arosio",
+      "Alessandro Cherubini",
+      "Dinara Samarkanova",
+      "Gabriele Scimemi",
+      "Renato Messina",
+      "Giuseppa Tancredi",
+      "Ilaria Ratti",
+      "Tiziana Montemurro"
+    ],
+    "publication_date": "2026-03-01"
+  },
+  {
+    "id": "41530145",
+    "type": "pubmed",
+    "title": "CD39 polymorphism enables lung thrombosis in sickle cell disease.",
+    "abstract": "Sickle cell disease (SCD) is the most common monogenic-hemolytic disorder affecting people of African ancestry. Adenosine diphosphate (ADP) released following intravascular hemolysis activates platelets by stimulating purinergic receptors to promote thrombosis. Despite brisk intravascular hemolysis, which releases high levels of ADP into plasma, and evidence of platelet and hemostatic activation, it remains elusive why only a subset of SCD patients develop lung thrombosis. Using real-time in vivo lung microscopy, we report a surprising finding that humanized SCD mice are protected from ADP-induced lung thrombosis, which is secondary to the degradation of ADP by CD39 present in circulating extracellular vesicles released by the lung endothelium. ADP-induced platelet aggregation is also impaired in the blood of SCD patients with elevated levels of CD39 + extracellular vesicles. CD39 polymorphism rs3176891A→G is associated with the incidence of lung thrombosis in SCD patients but not healthy humans of African ancestry. Remarkably, CD39 + extracellular vesicles are fewer and ADP-induced platelet aggregation is higher in the blood of SCD patients with rs3176891G allele. This study identifies a novel extracellular vesicle-dependent mechanism preventing lung thrombosis in SCD and reveals how CD39 polymorphisms may impair this protection to increase the risk for lung thrombosis in a subset of SCD patients.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Tomasz Brzoska",
+      "Tomasz W Kaminski",
+      "Omika Katoch",
+      "Elizaveta V Menchikova",
+      "Adekunle E Alagbe",
+      "Sarah E Tashbook",
+      "Stevan P Tofovic",
+      "Jude C Jonassaint",
+      "Claudette M St Croix",
+      "Simon C Watkins",
+      "Shane Howe",
+      "Joshua J Field",
+      "Amanda A Seyerle",
+      "Tirthadipa Pradhan-Sundd",
+      "Cecilia Laurie",
+      "Nathan D Pankratz",
+      "Nicholas L Smith",
+      "Ellen L Goode",
+      "James S Pankow",
+      "Charles Kooperberg",
+      "Gregory J Kato",
+      "Yingze Zhang",
+      "Enrico M Novelli",
+      "Mark T Gladwin",
+      "Edwin K Jackson",
+      "Seyed M Nouraie",
+      "Prithu Sundd"
+    ],
+    "publication_date": "2026-01-14"
+  },
+  {
+    "id": "41529228",
+    "type": "pubmed",
+    "title": "Impact of antiplatelet therapy on the hemostatic efficacy of platelet-targeted FVIII gene therapy in hemophilia A mice.",
+    "abstract": "Platelet-targeted factor VIII (FVIII) (2bF8) gene therapy offers promising hemostatic correction in hemophilia A (HA), even in the presence of FVIII inhibitors. Because platelet-derived FVIII is released from platelet α-granules upon activation at injury sites, it is essential to evaluate whether antiplatelet agents would compromise its therapeutic efficacy. Here, we investigated the effect of antiplatelet agents on the efficacy of platelet-FVIII in HA mice. 2bF8Tg mice express FVIII in platelets controlled by the αIIb promoter and were treated with aspirin, clopidogrel, or the αIIbβ3-blocking antibody Leo.H4. Hemostatic function was evaluated through tail-bleeding models and in vitro assays. We found that all antiplatelet agents impaired platelet-FVIII-mediated hemostasis in vivo. Leo.H4 treatment caused severe bleeding in both the tail tip and tail vein transection injury models, consistent with its inhibition of platelet aggregation. Clopidogrel-treated 2bF8Tg mice exhibited 10 to 14 times more blood loss than controls, with extended bleeding; however, they still showed improvement compared to FVIIInull controls. Notably, platelet-FVIII retained superior efficacy compared to plasma-derived FVIII in clopidogrel-treated mice, despite having only 24% of normal FVIII activity. Aspirin also impaired hemostasis but to a lesser extent. In vitro rotational thromboelastometry and whole-blood thrombin generation assays showed no significant differences between aspirin- or clopidogrel-treated and control mice, suggesting that these assays may not fully capture platelet-FVIII dynamics. Our results indicate that platelet aggregation is crucial for the efficacy of platelet-FVIII. Although antiplatelet agents hinder its function, platelet-FVIII remains preferable to plasma-FVIII, highlighting its clinical potential and the importance of considering concomitant therapies in future applications.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Hongyin Yu",
+      "Jocelyn A Schroeder",
+      "Jeremy G Mattson",
+      "Chunyan Gao",
+      "Qizhen Shi"
+    ],
+    "publication_date": "2026-03-24"
+  },
+  {
+    "id": "41523568",
+    "type": "pubmed",
+    "title": "Peripartum Anesthetic Care of a Parturient With Arnold-Chiari Malformation and Factor XI Deficiency: A Case Report.",
+    "abstract": "Arnold-Chiari malformation (ACM) and Factor XI (FXI) deficiency are rare conditions that pose distinct anesthetic challenges in the obstetric population. While each condition has been managed individually with varying anesthetic approaches, their coexistence in a single patient significantly complicates peripartum decision-making, particularly regarding the safety of neuraxial anesthesia and the risk of hemorrhage. We report the case of a 26-year-old G2P1011 woman at 39 weeks of gestation with ACM type I and FXI deficiency who presented for induction of labor. Multidisciplinary planning involved hematology, neurology, neurosurgery, obstetrics, and anesthesiology. Given her bleeding history, hematology recommended prophylactic fresh frozen plasma (FFP) transfusion and tranexamic acid (TXA). Due to symptomatic ACM and risk of cerebrospinal fluid leak with neuraxial anesthesia, epidural placement was deferred. Analgesia was managed with remifentanil PCA. As labor progressed, the patient elected for cesarean delivery despite increased bleeding risk. General anesthesia was chosen, and the patient received perioperative FFP and TXA. Intraoperative blood loss was estimated at 2600 milliliters, requiring transfusion of 1 unit of packed red blood cells while maintaining stable hemodynamics. Postoperatively, the patient remained hemodynamically stable with no neurologic complications and was discharged home on postoperative day five. While neuraxial anesthesia can be considered in isolated ACM or FXI deficiency with appropriate precautions, the coexistence of both disorders amplifies the risks of neurologic deterioration and spinal hematoma. General anesthesia provided a controlled and safe alternative in this setting. This case underscores the importance of individualized anesthetic planning, multidisciplinary coordination, and careful hemostatic optimization. The simultaneous presence of ACM and FXI deficiency in an obstetric patient presents unique anesthetic and obstetric challenges. General anesthesia with proactive hemostatic management may be the safest approach when symptomatic ACM coexists with a significant bleeding risk. This case report describes the successful multidisciplinary peripartum management of a patient with both symptomatic ACM and FXI deficiency, highlighting the anesthetic dilemma and the rationale for ultimately selecting general anesthesia for cesarean delivery.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Devin G Monroe",
+      "Tanner Moore",
+      "Mohamad El Churafa",
+      "Taylor Varela"
+    ],
+    "publication_date": "2025-12-01"
+  },
+  {
+    "id": "41522530",
+    "type": "pubmed",
+    "title": "Rare Bleeding Disorders: Strategy for Diagnosis and Management- A Tertiary Care Experience from North India.",
+    "abstract": "To diagnose rare coagulation factor deficiencies, study the varied clinical presentations along with their management and create a diagnostic algorithm in order to sensitize the treating physicians and diagnosticians for the effective management of patients. From the patients suspected of bleeding disorders, chief complaints and detailed bleeding history were recorded. A diagnostic algorithm was followed starting with first line tests for bleeding disorders which included prothrombin time, activated partial thrombin time, thrombin time, fibrinogen levels, liver function test and complete blood counts including platelet count. Isolated elevated PT or APTT were followed by mixing studies to confirm factor deficiency and inhibitor screen testing to rule out inhibitors. After ruling out common factor deficiencies (Haemophilia A and Haemophilia B), von Willebrand disease and platelet function defects, testing for RBD was done as per the diagnostic algorithm. A total of 66 patients were diagnosed with RBD. Male: female ratio was 1.1:1 with age varying from 1 month to 82 years, including 36 adults and 30 paediatric patients. Factor VII deficiency was most common with 22 cases (33.3%) followed by FX in 15 cases (22.7%), FXI in 12 cases (18.2%), FXIII deficiency in 11 cases (16.6%), FV in 3 cases (4.5%), FII in one case (1.5%) and combined FV + VIII comprised two cases (3%). Mucocutaneous bleeding was the commonest presentation. Moderate to severe bleeding episodes were most commonly observed in patients with FVII and FX deficiency with the mean age of presentation being 25.8 years and 22.9 years respectively. Mild to moderate bleeding episodes were observed in FV and XI deficiencies. The management of RBDs is usually based 'on demand'. The most common therapeutic product used was fresh frozen plasma in most of the cases, cryoprecipitate in patients with factor XIII deficiency mainly as a prophylactic therapy. Tranexamic acid was used in patients presenting with bleeding. Diagnosis and treatment of rare factor deficiencies is difficult. Knowledge of the clinical presentations, family history and availability of factor assay play a role in timely and correct diagnosis by using a diagnostic algorithm. In our study, we have provided the data from a tertiary referral centre of North India, Delhi which adds up to the limited data from our country.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Sabina Langer",
+      "Surbhi Dahiya",
+      "Manas Kalra",
+      "Deepika Gupta",
+      "Nitin Gupta",
+      "Jyoti Kotwal"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41496702",
+    "type": "pubmed",
+    "title": "Clinical and laboratory diagnosis of von Willebrand disease.",
+    "abstract": "von Willebrand disease (VWD) is a hereditary bleeding disorder first described by Erik von Willebrand in 1926. The disease is characterized by frequent bruising, bleeding from minor wounds, nosebleeds, heavy menstrual bleeding, bleeding after tooth extraction, gastrointestinal bleeding, and joint bleeds. The underlying cause of VWD was identified 45 years later as a deficiency of von Willebrand factor (VWF), a high-molecular-weight protein that circulates with factor VIII in plasma. The clinical diagnosis of VWD involves the presence of bleeding symptoms, detection of at least one abnormality of VWF function in laboratory tests, and demonstration of familial inheritance. VWD presents a broad spectrum of clinical and laboratory abnormalities, making the diagnostic process complex. Integrating clinical and laboratory data into the diagnostic pathway using a Bayesian approach can help build evidence for a diagnosis. Over the years, several diagnostic assays have been developed to measure the quantitative and qualitative properties of VWF. Automated laboratory assays for measuring VWF have been implemented in recent decades, and assessment tools for clinical evaluation of bleeding severity have been developed. Laboratory diagnosis involves screening and first-level diagnostic tests to measure VWF antigen, VWF-platelet binding activity, and factor VIII coagulant activity. Second-level subtyping tests are required to characterize the phenotypic defects of the type 2 variants and classify the patients. Proper diagnosis and classification of VWD are essential in order to recognize patients who may benefit from treatment, determine the optimal treatment modality, and prevent overdiagnosis.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Alberto Tosetto",
+      "Jeroen Eikenboom"
+    ],
+    "publication_date": "2026-01-01"
+  },
+  {
+    "id": "41487398",
+    "type": "pubmed",
+    "title": "Season-dependent low basal CD86 expression promotes immune cell activation upon treatment with plasma-derived factor Ⅷ products.",
+    "abstract": "The most serious complication in treatment of hemophilia A is the development of factor (F)Ⅷ anti-drug antibodies (ADAs), while immunological danger signals seem to play a critical role in ADA development. Accordingly, we have shown in previous studies that plasma-derived (pd) FⅧ in presence of the bacterial danger signal lipopolysaccharide (LPS) synergistically activates dendritic cells (DCs), which in turn induce proliferation of (FⅧ-specific) CD4 + T helper cells. However, our in vitro assays using DC and T cells from healthy donors revealed that only cells from some donations can be synergistically activated upon treatment with pdFⅧ plus LPS, while cells from others cannot.\nTherefore, we investigated a data pool of 160 donations for DC activation and 265 donations for T-cell proliferation from healthy donors collected by 3 different experimenters between 2012 and 2023 to determine parameters that correlate with pdFⅧ plus LPS-induced immune cell activation.\nHuman immune cells from healthy donors are synergistically activated by pdFⅧ plus LPS. However, neither DC activation nor T-cell proliferation depended on a specific pdFⅧ product, did not correlate with the donor's biological sex, and was not donor- but rather time point-dependent. Analyses of different activation markers revealed seasonal differences in CD86 expression, and low expression correlated with DC activation and tumor necrosis factor-α expression.\nIn fact, we could demonstrate that the meteorological season correlates with the basal CD86 expression on DC. This, in turn, determined the capability of synergistic DC activation and cytokine secretion, as well as partially impacted T-cell proliferation.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Jessica Herzig",
+      "Josselyn Azucena Arciniega Martinez",
+      "Svenja M Küster",
+      "Eva Ringler",
+      "Stefanie Kronhart",
+      "Gerrit J K Praefcke",
+      "Lilija Miller",
+      "Martina Anzaghe",
+      "Zoe Waibler"
+    ],
+    "publication_date": "2025-11-01"
+  },
+  {
+    "id": "41481565",
+    "type": "pubmed",
+    "title": "Therapeutic plasma exchangerelated complications in patients with immune-mediated thrombotic thrombocytopenic purpura.",
+    "abstract": "Daily therapeutic plasma exchange (TPE) is the cornerstone of treatment for immune-mediated thrombotic thrombocytopenic purpura (iTTP). However, TPE is not a risk-free procedure and there is scarce evidence regarding its safety in iTTP. This study aims to describe the TPE-related clinical complications occurred in a cohort of patients hospitalized for an acute iTTP episode.\nIn this cross-sectional study, patients hospitalized for an acute iTTP episode at the Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico (Milan) between January 2016 and April 2022 undergoing a central venous catheter (CVC) placement to start TPE were enrolled.\nThirty-three iTTP episodes from 32 patients were included, 20 (61%) first episodes and 2 (6%) complicated with acute exacerbations. Twenty-one episodes (64%) were complicated with at least one major TPE-related complication, 18 (55%) with at least one CVC-related complication, of which 9 (27%) with a major complication. Among major CVC-related complications, 5 were venous thromboses (VTs) requiring heparin treatment and CVC removal, and 3 infections (2 systemic) requiring systemic antibiotic treatment and CVC removal. The 19 CVC-related bleeds (in 16 episodes) were minor bleeds and required only local hemostatic medications. Among the major procedure-related complications, the most common were allergic reactions (present in 16 episodes, 49%), mostly urticarial rashes requiring systemic steroids and antihistamines, and clinical hypocalcemia (in 8 episodes, 24%). The episodes complicated with CVC-related VT or infection required a longer hospitalization and those complicated with CVC-related infection required also a higher number of TPE procedures.\nTPE procedure was well tolerated in our cohort of acute iTTP patients in the majority of cases, with CVC-related minor bleeds and allergic reactions being the most common complications. The occurrence of CVC-related major complications, as VT or infections, was associated with a longer hospitalization (medians: 30 vs 11.5 days).",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Pasquale Agosti",
+      "Ilaria Mancini",
+      "Andrea Artoni",
+      "Chiara Cardone",
+      "Pasqualina De Leo",
+      "Christian Bichard",
+      "Addolorata Truma",
+      "Barbara Ferrari",
+      "Juri A Giannotta",
+      "Norma N Fantini",
+      "Maria Cristina Mocellin",
+      "Daniele Prati",
+      "Flora Peyvandi"
+    ],
+    "publication_date": "2025-12-10"
+  },
+  {
+    "id": "41476895",
+    "type": "pubmed",
+    "title": "Feasibility to infer accurate fibrinogen concentrations from thrombin generation, prothrombin time, or Reptilase time waveforms.",
+    "abstract": "A rapid point-of-care test to measure fibrinogen levels is crucial to adequately treat major blood loss, eg, because of trauma, postpartum hemorrhage, or major surgery. Obtaining results from current fibrinogen assays is too time-consuming in emergency situations. We have developed mathematical methods to infer fibrinogen concentrations from the turbidity waveforms of the thrombin generation (TG), prothrombin time (PT), and Reptilase time (RT) assays.\nThe aim of this study was to verify the performance of these methods using assay waveforms from real-world patient samples.\nWe measured TG, PT, and RT in 44 plasma samples with a wide range of fibrinogen levels (1.1-16.6 g/L), high D-dimer, prolonged PT, and/or containing anticoagulant medication.\nOverall, data from the PT (R = 0.965) and RT (R = 0.985) assays could be used as data input to accurately infer fibrinogen levels for all patients. The TG assay (R = 0.917) was less robust and generated results for only 36 patients.\nOur mathematical methods proved to be able to accurately infer a wide range of fibrinogen levels in real-world patient samples, even in the presence of anticoagulant medication. With this study, we took the first step toward the development of a new, rapid point-of-care fibrinogen test.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Ryanne A Arisz",
+      "Bart Bakker",
+      "René van den Ham",
+      "Aamer Ahmed",
+      "Jeroen C J Eikenboom",
+      "Saskia E M Schols",
+      "Moniek P M de Maat",
+      "SYMPHONY consortium@SYMPHONY_NL"
+    ],
+    "publication_date": "2025-11-01"
+  },
+  {
+    "id": "41469749",
+    "type": "pubmed",
+    "title": "Purine Nucleoside Phosphorylase Inhibition Rebalances Purine Metabolism and Attenuates Organ Damage in Sickle Cell Mice.",
+    "abstract": "Red blood cells (RBCs) contain the highest purine nucleoside phosphorylase (PNP) level per cell volume, yet the role of PNP in the pathogenesis of sickle cell disease (SCD) is incompletely understood, highlighting an important gap in our knowledge of the disease. Previously, we reported increased PNP release by RBCs and accelerated purine nucleoside metabolism with increased production of pro-oxidant, pro-inflammatory and vasculotoxic byproducts in children with SCD and animal models of hemolytic injury. Thus, we hypothesized that PNP inhibition would reduce hemolysis and attenuate end-organ damage in SCD. In adult patients with SCD (n = 63), plasma PNP levels were markedly elevated compared to controls (n = 27; p < 0.001) and correlated positively with LDH (r = 0.6032, p < 0.0001) and negatively with haemoglobin (r = -0.4523, p = 0.0002). SCD mice also showed accelerated purine metabolism compared to controls. Treatment with the PNP inhibitor 8-aminoguanosine (8-AG) increased inosine and guanosine and reduced downstream vasculotoxic byproducts hypoxanthine (p = 0.036), xanthine (p = 0.004) and guanine (p = 0.047), indicating efficient PNP inhibition. 8-AG treatment rebalanced the purine metabolome in SCD mice to favour protective over harmful purine metabolites without negatively affecting haematological parameters. This was associated with reduced hemolysis and decreased splenomegaly, hepatomegaly, and hepatic and renal injury. This study suggests that PNP is an important erythrocytic damage-associated molecular pattern molecule involved in the complex pathophysiology of SCD and proposes PNP inhibitors as a new therapeutic option for SCD and other hemolytic diseases.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Adekunle Emmanuel Alagbe",
+      "Lynda Little-Ihrig",
+      "Stephanie M Mutchler",
+      "Edwin K Jackson",
+      "Enrico M Novelli",
+      "Stevan P Tofovic"
+    ],
+    "publication_date": "2025-12-01"
+  },
+  {
+    "id": "41458817",
+    "type": "pubmed",
+    "title": "Total Laparoscopic Hysterectomy in Factor XI Deficiency: A Case Report.",
+    "abstract": "Abnormal uterine bleeding (AUB) is a frequent reason for gynaecological consultation and can occasionally reflect rare coagulation disorders. The case study presented herein concerns a 42-year-old para 3 woman (gravida 3, para 3), who exhibited symptoms including irregular heavy menses and the presence of a large uterine myoma. The patient was referred for further evaluation due to symptomatic anaemia and a prolonged activated partial thromboplastin time (aPTT). Haematological evaluation confirmed severe factor XI (FXI) deficiency, with activity levels of 0.3% and 1.24% on repeat testing. As medical therapy proved ineffective in controlling the bleeding over several months, a total laparoscopic hysterectomy (TLH) was planned to minimise the risk of haemorrhage. Preoperative management included the intravenous administration of six units of fresh frozen plasma (FFP) over 24 hours, together with tranexamic acid. The procedure was successfully completed with minimal blood loss (approximately 80 mL), and the patient was discharged 48 hours postoperatively without complications. This case demonstrates the significance of identifying inherited coagulopathies as underlying causes of AUB and underscores the pivotal role of multidisciplinary collaboration, meticulous perioperative planning, and minimally invasive surgical techniques in optimising outcomes and mitigating bleeding risk in women with FXI deficiency.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Brayan J Ortiz-Villanueva",
+      "Alejandra G Lopez-Chavez",
+      "Alejandra Mendoza-Torres",
+      "Luz M Bravo-Rodriguez",
+      "Fernando J Interián-Alvarez"
+    ],
+    "publication_date": "2025-11-01"
+  },
+  {
+    "id": "41443372",
+    "type": "pubmed",
+    "title": "Thrombin generation profiling in rare coagulation factor deficiencies: associations with bleeding severity and potential for screening.",
+    "abstract": "Rare coagulation factor deficiencies (RCFDs) can cause significant bleeding, but activated partial thromboplastin time (APTT) and prothrombin time (PT) may not detect abnormalities, and factor activity measurements do not predict bleeding severity. Thrombin generation assays may better reflect overall hemostatic capacity.\nThis study investigated whether thrombin generation can detect RCFDs and correlate with bleeding severity in patients with congenital deficiencies of factor (F)II, FV, FV/FVIII, FVII, FX, and FXI.\nThrombin generation was measured using the Nijmegen hemostasis assay in patients from the cross-sectional Dutch Rare Bleeding disorders in the Netherlands (RBiN) study (2017-2019). Parameters analyzed included thrombin potential, lag time, and thrombin potential-to-lag time (TP/LT) ratio, normalized using pooled normal plasma and expressed as percentages of the mean from 37 healthy controls. Nijmegen hemostasis assay data were correlated with bleeding severity and compared with APTT and PT.\nWe included 106 patients, mostly with mild deficiencies (median factor activity 5%-53%). Overall, thrombin generation in patients was significantly reduced compared with controls, with decreased thrombin potentials (median 58%) and prolonged lag times (150%), resulting in reduced TP/LT ratios (45%). These parameters correlated with bleeding severity; across RCFDs, median TP/LT ratios ranged from 30% to 104% in patients without spontaneous bleeding (bleeding severity grade 0-1), 26% to 49% in mild spontaneous bleeding (grade 2), and 0% to 22% in severe spontaneous bleeding (grade 3). At 95% specificity, TP/LT ratio showed 68% to 100% sensitivity, outperforming APTT and PT (14%-80%) in all RCFDs except FVII and FV/FVIII deficiency.\nThrombin generation profiling correlated with bleeding severity and showed higher sensitivity than conventional screening assays in detecting RCFDs, supporting its potential in screening and clinical evaluation of RFCDs.",
+    "claims": null,
+    "assignee": null,
+    "inventors": [
+      "Bauke Haisma",
+      "Sanna R Rijpma",
+      "Marjon H Cnossen",
+      "Paul L den Exter",
+      "Ilmar C Kruis",
+      "Karina Meijer",
+      "Laurens Nieuwenhuizen",
+      "Nick van Es",
+      "Joline L Saes",
+      "Nicole M A Blijlevens",
+      "Waander L van Heerde",
+      "Saskia E M Schols"
+    ],
+    "publication_date": "2026-03-01"
   }
 ]

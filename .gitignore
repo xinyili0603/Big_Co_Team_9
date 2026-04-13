@@ -17,6 +17,7 @@ eggs/
 lib/
 lib64/
 parts/
+
 sdist/
 var/
 wheels/
@@ -137,7 +138,8 @@ celerybeat.pid
 # Environments
 .env
 .envrc
-.venv
+.venv/
+data/*.json
 env/
 venv/
 ENV/
