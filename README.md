@@ -7,7 +7,7 @@ This project uses Python 3.11 and a local virtual environment inside the reposit
 ### Clone repository
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/xinyili0603/Big_Co_Team_9.git
 cd csl-mvp
 ```
 
