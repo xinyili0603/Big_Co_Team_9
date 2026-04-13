@@ -1,0 +1,11 @@
+{
+  "total_documents": 9,
+  "unique_ids": 9,
+  "missing_titles": 0,
+  "missing_abstracts": 0,
+  "missing_publication_dates": 0,
+  "short_abstracts": 0,
+  "avg_abstract_chars": 1753.44,
+  "avg_abstract_words": 247.33,
+  "suspicious_document_ids": []
+}

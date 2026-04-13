@@ -1,0 +1,930 @@
+[
+  {
+    "entity_id": "5ea0dfa3-6587-4978-9876-ea66d9b2edf8",
+    "document_id": "41953841",
+    "type": "disease",
+    "name": "Hemophilia",
+    "normalized_name": "hemophilia",
+    "sentence": "Hemophilia is a rare bleeding disorder due to factor VIII (FVIII) or FIX deficiency involved in hemophilia A (HA) or HB, respectively."
+  },
+  {
+    "entity_id": "ffddf14a-f7dc-4a4e-bfe2-ff2013670c11",
+    "document_id": "41953841",
+    "type": "disease",
+    "name": "bleeding disorder",
+    "normalized_name": "bleeding disorder",
+    "sentence": "Hemophilia is a rare bleeding disorder due to factor VIII (FVIII) or FIX deficiency involved in hemophilia A (HA) or HB, respectively."
+  },
+  {
+    "entity_id": "d271edf9-3c17-489c-8517-65d85dd7a19f",
+    "document_id": "41953841",
+    "type": "protein",
+    "name": "factor VIII",
+    "normalized_name": "factor viii",
+    "sentence": "Hemophilia is a rare bleeding disorder due to factor VIII (FVIII) or FIX deficiency involved in hemophilia A (HA) or HB, respectively."
+  },
+  {
+    "entity_id": "a8e62bda-7e25-47bf-850d-2d07293752a2",
+    "document_id": "41953841",
+    "type": "protein",
+    "name": "FVIII",
+    "normalized_name": "fviii",
+    "sentence": "Hemophilia is a rare bleeding disorder due to factor VIII (FVIII) or FIX deficiency involved in hemophilia A (HA) or HB, respectively."
+  },
+  {
+    "entity_id": "a394a0c3-fd1e-45e4-a732-7665b6d59b5b",
+    "document_id": "41953841",
+    "type": "disease",
+    "name": "FIX deficiency",
+    "normalized_name": "fix deficiency",
+    "sentence": "Hemophilia is a rare bleeding disorder due to factor VIII (FVIII) or FIX deficiency involved in hemophilia A (HA) or HB, respectively."
+  },
+  {
+    "entity_id": "37d7dbc5-19e8-4f7f-b9dc-eae304eeb409",
+    "document_id": "41953841",
+    "type": "disease",
+    "name": "hemophilia A",
+    "normalized_name": "hemophilia a",
+    "sentence": "Hemophilia is a rare bleeding disorder due to factor VIII (FVIII) or FIX deficiency involved in hemophilia A (HA) or HB, respectively."
+  },
+  {
+    "entity_id": "8851b72d-633c-4859-af65-09abdcf6e141",
+    "document_id": "41953841",
+    "type": "disease",
+    "name": "hemophilia",
+    "normalized_name": "hemophilia",
+    "sentence": "Despite significant progress in patient care, there is still no oral procoagulant drug available for people with hemophilia."
+  },
+  {
+    "entity_id": "06ef129c-6603-465b-b5e0-d318df3d4ec8",
+    "document_id": "41953841",
+    "type": "disease",
+    "name": "acquired bleeding disorders",
+    "normalized_name": "acquired bleeding disorders",
+    "sentence": "Such an oral procoagulant could provide benefits to other inherited and acquired bleeding disorders, as well as anticoagulant-induced bleeding."
+  },
+  {
+    "entity_id": "365c993d-623e-4d79-b730-fe6450c32d78",
+    "document_id": "41953841",
+    "type": "compound",
+    "name": "adapalene",
+    "normalized_name": "adapalene",
+    "sentence": "We screened 3 chemical collections totaling > 2300 chemical compounds; we identified adapalene, a commercialized antiacneic compound (Differin), which is strongly hydrophobic."
+  },
+  {
+    "entity_id": "c6d2d53b-c035-4993-beae-fcb515c0d7ba",
+    "document_id": "41953841",
+    "type": "compound",
+    "name": "Differin",
+    "normalized_name": "differin",
+    "sentence": "We screened 3 chemical collections totaling > 2300 chemical compounds; we identified adapalene, a commercialized antiacneic compound (Differin), which is strongly hydrophobic."
+  },
+  {
+    "entity_id": "2ade2f9b-3066-40cf-bbc5-a717ce587d67",
+    "document_id": "41953841",
+    "type": "compound",
+    "name": "adapalene",
+    "normalized_name": "adapalene",
+    "sentence": "To design a drug that could be orally administered, we developed a series of chemical analogs of adapalene, and 3 of them, with similar procoagulant activities in FVIII-deficient plasma, showed improved solubilities."
+  },
+  {
+    "entity_id": "b2a3772d-4eb8-4e5b-b15e-63d297844276",
+    "document_id": "41953841",
+    "type": "protein",
+    "name": "FXII",
+    "normalized_name": "fxii",
+    "sentence": "These studies conclude that the procoagulant activity of the chemical compounds in FVIII-deficient plasma is due to the activation of FXII."
+  },
+  {
+    "entity_id": "15a5241e-0c88-434f-b96b-2a5965631cc3",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Renaud Zelli",
+    "normalized_name": "renaud zelli",
+    "sentence": ""
+  },
+  {
+    "entity_id": "f0e47d77-f9b4-4e02-8401-be251df1e3e3",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Landry Seyve",
+    "normalized_name": "landry seyve",
+    "sentence": ""
+  },
+  {
+    "entity_id": "925748f2-89e8-4f3b-9feb-26bab7840f41",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Marie-Claire Dagher",
+    "normalized_name": "marie-claire dagher",
+    "sentence": ""
+  },
+  {
+    "entity_id": "e74405bb-1af2-4ab0-82d8-367001abd8ce",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Romain Navarro",
+    "normalized_name": "romain navarro",
+    "sentence": ""
+  },
+  {
+    "entity_id": "aa62351b-4c75-4b31-8ecd-ad13a1ca7411",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Caroline Barette",
+    "normalized_name": "caroline barette",
+    "sentence": ""
+  },
+  {
+    "entity_id": "98c05ed8-fbcf-4b24-bae0-a8ed8b181122",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Hélène Coradin",
+    "normalized_name": "hélène coradin",
+    "sentence": ""
+  },
+  {
+    "entity_id": "fdfe036d-6b67-4539-b593-5f7f627a9817",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Benoît Polack",
+    "normalized_name": "benoît polack",
+    "sentence": ""
+  },
+  {
+    "entity_id": "b51299cf-441d-4f2c-bf96-e03848c742bd",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Muriel Jourdan",
+    "normalized_name": "muriel jourdan",
+    "sentence": ""
+  },
+  {
+    "entity_id": "b9600a99-c731-45eb-9b84-dd08ba05f0ea",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Raphaël Marlu",
+    "normalized_name": "raphaël marlu",
+    "sentence": ""
+  },
+  {
+    "entity_id": "ef1fd91f-07b2-4949-86db-96dfb439848b",
+    "document_id": "41953841",
+    "type": "researcher",
+    "name": "Aline Thomas",
+    "normalized_name": "aline thomas",
+    "sentence": ""
+  },
+  {
+    "entity_id": "15d58cac-fd78-44c2-aad3-0d99145566cc",
+    "document_id": "41890554",
+    "type": "protein",
+    "name": "factor (F)IX",
+    "normalized_name": "factor (f)ix",
+    "sentence": "Inhibitor development against factor (F)IX is a serious complication in patients with hemophilia B (HB)."
+  },
+  {
+    "entity_id": "9c930dda-7a97-410f-925f-bafcc7979407",
+    "document_id": "41890554",
+    "type": "disease",
+    "name": "hemophilia B",
+    "normalized_name": "hemophilia b",
+    "sentence": "Inhibitor development against factor (F)IX is a serious complication in patients with hemophilia B (HB)."
+  },
+  {
+    "entity_id": "747aa2c1-de13-42ff-96b1-634d9be73007",
+    "document_id": "41890554",
+    "type": "disease",
+    "name": "nephrotic syndrome",
+    "normalized_name": "nephrotic syndrome",
+    "sentence": "Adverse events included allergic reactions (incidence, 0%-100%), nephrotic syndrome (incidence, 0%-33.3%), and simultaneous occurrences of both (incidence, 0%-15.4%)."
+  },
+  {
+    "entity_id": "a25a4843-b32d-4849-9fd0-26efb4cd2e56",
+    "document_id": "41890554",
+    "type": "protein",
+    "name": "FIX",
+    "normalized_name": "fix",
+    "sentence": "At least 35.9% of ITI attempts involved FIX injections combined with immunosuppressive therapy."
+  },
+  {
+    "entity_id": "bfb8cb77-51ff-40fa-b6eb-b5a498231585",
+    "document_id": "41890554",
+    "type": "researcher",
+    "name": "Shaoyu Yin",
+    "normalized_name": "shaoyu yin",
+    "sentence": ""
+  },
+  {
+    "entity_id": "209d2960-3ba2-4f4e-83c9-7a14b3630b88",
+    "document_id": "41890554",
+    "type": "researcher",
+    "name": "Jiahong Wu",
+    "normalized_name": "jiahong wu",
+    "sentence": ""
+  },
+  {
+    "entity_id": "344ca0a4-433c-4ef1-847f-eda967c842be",
+    "document_id": "41890554",
+    "type": "researcher",
+    "name": "Wen Yang",
+    "normalized_name": "wen yang",
+    "sentence": ""
+  },
+  {
+    "entity_id": "92b42e96-b7dd-4c19-a125-9f3ed19ca531",
+    "document_id": "41890554",
+    "type": "researcher",
+    "name": "Hongli Mu",
+    "normalized_name": "hongli mu",
+    "sentence": ""
+  },
+  {
+    "entity_id": "8ef32bc6-3305-4a91-bf36-82636fc3fc0d",
+    "document_id": "41890554",
+    "type": "researcher",
+    "name": "Yuexing Peng",
+    "normalized_name": "yuexing peng",
+    "sentence": ""
+  },
+  {
+    "entity_id": "1b89cf18-1d60-45bd-bb0c-bc0d59e72972",
+    "document_id": "41890554",
+    "type": "researcher",
+    "name": "Haoran Lu",
+    "normalized_name": "haoran lu",
+    "sentence": ""
+  },
+  {
+    "entity_id": "d1a3075a-4243-43e2-81c7-fe31870b7f00",
+    "document_id": "41890554",
+    "type": "researcher",
+    "name": "Rong Li",
+    "normalized_name": "rong li",
+    "sentence": ""
+  },
+  {
+    "entity_id": "c97bf6e8-17be-4a30-914b-6fc9c43bd8a2",
+    "document_id": "41890554",
+    "type": "researcher",
+    "name": "Hui Bi",
+    "normalized_name": "hui bi",
+    "sentence": ""
+  },
+  {
+    "entity_id": "7f39aeeb-15b3-4098-809d-9c700c4ce1be",
+    "document_id": "41890554",
+    "type": "researcher",
+    "name": "Zeping Zhou",
+    "normalized_name": "zeping zhou",
+    "sentence": ""
+  },
+  {
+    "entity_id": "808014bb-834f-4ac9-a8bb-9275e8ef67d5",
+    "document_id": "41881049",
+    "type": "disease",
+    "name": "von Willebrand disease",
+    "normalized_name": "von willebrand disease",
+    "sentence": "von Willebrand disease (VWD) is the most commonly inherited bleeding disorder, with a prevalence surpassing hemophilia A. Unfortunately, VWD may be variously underdiagnosed, overdiagnosed, or misdiagnosed, depending on the expertise of the managing clinician and testing laboratories."
+  },
+  {
+    "entity_id": "9021ee43-a510-4e3b-9546-6a2f470ab593",
+    "document_id": "41881049",
+    "type": "disease",
+    "name": "bleeding disorder",
+    "normalized_name": "bleeding disorder",
+    "sentence": "von Willebrand disease (VWD) is the most commonly inherited bleeding disorder, with a prevalence surpassing hemophilia A. Unfortunately, VWD may be variously underdiagnosed, overdiagnosed, or misdiagnosed, depending on the expertise of the managing clinician and testing laboratories."
+  },
+  {
+    "entity_id": "4bc2d356-1490-4d6f-9888-94bf161b746d",
+    "document_id": "41881049",
+    "type": "protein",
+    "name": "VWF",
+    "normalized_name": "vwf",
+    "sentence": "Diagnostic challenges are due to the heterogeneity of VWD and the complexities surrounding laboratory assessment, including reactive influences on VWF levels."
+  },
+  {
+    "entity_id": "9e52dc92-8390-4a60-84aa-fd22923758b1",
+    "document_id": "41881049",
+    "type": "disease",
+    "name": "deficiency",
+    "normalized_name": "deficiency",
+    "sentence": "At least six types of VWD can be identified, with these classified according to the functional defect and/or level of deficiency in the plasma protein von Willebrand factor (VWF)."
+  },
+  {
+    "entity_id": "d653c4b0-443e-4cba-aaea-872efbf612c2",
+    "document_id": "41881049",
+    "type": "protein",
+    "name": "plasma protein von Willebrand factor",
+    "normalized_name": "plasma protein von willebrand factor",
+    "sentence": "At least six types of VWD can be identified, with these classified according to the functional defect and/or level of deficiency in the plasma protein von Willebrand factor (VWF)."
+  },
+  {
+    "entity_id": "cfb15934-5313-4aa0-8435-d4abbc55e295",
+    "document_id": "41881049",
+    "type": "protein",
+    "name": "VWF",
+    "normalized_name": "vwf",
+    "sentence": "At least six types of VWD can be identified, with these classified according to the functional defect and/or level of deficiency in the plasma protein von Willebrand factor (VWF)."
+  },
+  {
+    "entity_id": "ad7b9324-1aee-4d0d-ae91-0f436c206b62",
+    "document_id": "41881049",
+    "type": "protein",
+    "name": "VWF protein",
+    "normalized_name": "vwf protein",
+    "sentence": "The VWF protein has several functions, most of which can be assessed by laboratory testing; however, this increases the diagnostic complexity, and clinicians/laboratory staff may not understand the differences in these tests and what they assess."
+  },
+  {
+    "entity_id": "8948abda-983e-4891-9003-3e2aa6f8fc35",
+    "document_id": "41881049",
+    "type": "researcher",
+    "name": "Emmanuel J Favaloro",
+    "normalized_name": "emmanuel j favaloro",
+    "sentence": ""
+  },
+  {
+    "entity_id": "4d91b4b4-728c-496a-bdd6-f8e281c06eb2",
+    "document_id": "41881049",
+    "type": "researcher",
+    "name": "Leonardo Pasalic",
+    "normalized_name": "leonardo pasalic",
+    "sentence": ""
+  },
+  {
+    "entity_id": "287f927d-7091-4fa4-9383-13d3ab3766d7",
+    "document_id": "41881049",
+    "type": "researcher",
+    "name": "Jennifer Curnow",
+    "normalized_name": "jennifer curnow",
+    "sentence": ""
+  },
+  {
+    "entity_id": "0132f674-6814-47f9-b344-b96ac502e881",
+    "document_id": "41869911",
+    "type": "disease",
+    "name": "haemophilia A",
+    "normalized_name": "haemophilia a",
+    "sentence": "Intra-cranial haemorrhage (ICH) in neonates with haemophilia A (HA) remains a serious perinatal complication."
+  },
+  {
+    "entity_id": "73387a85-219f-43e7-8a5d-73f570112132",
+    "document_id": "41869911",
+    "type": "compound",
+    "name": "emicizumab",
+    "normalized_name": "emicizumab",
+    "sentence": "Prophylactic administration of emicizumab (Emi) to pregnant HA carriers has been discussed as a potential preventive strategy, although current clinical evidence is limited to one case report."
+  },
+  {
+    "entity_id": "d79fcf8c-d28f-472b-8aec-c3458655b4b0",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Masahiro Takeyama",
+    "normalized_name": "masahiro takeyama",
+    "sentence": ""
+  },
+  {
+    "entity_id": "2d665dbd-e850-41b0-846d-0d40c5604313",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Fuminori Kimura",
+    "normalized_name": "fuminori kimura",
+    "sentence": ""
+  },
+  {
+    "entity_id": "7968a48c-3188-4af4-b6cb-59e30fd97ee9",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Shoko Furukawa",
+    "normalized_name": "shoko furukawa",
+    "sentence": ""
+  },
+  {
+    "entity_id": "0d596af8-f2a5-47a3-849b-03c9f1d953cd",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Kana Sasai",
+    "normalized_name": "kana sasai",
+    "sentence": ""
+  },
+  {
+    "entity_id": "d03deb42-11c0-4579-adca-e6f47b9b2a45",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Suguru Harada",
+    "normalized_name": "suguru harada",
+    "sentence": ""
+  },
+  {
+    "entity_id": "207882ae-b177-4703-9b11-31d0d71e419a",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Tetsuhiro Soeda",
+    "normalized_name": "tetsuhiro soeda",
+    "sentence": ""
+  },
+  {
+    "entity_id": "43aadf42-de44-4a60-ae92-50095c61bb1f",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Mitsumasa Osuna",
+    "normalized_name": "mitsumasa osuna",
+    "sentence": ""
+  },
+  {
+    "entity_id": "8bf4e2b6-9473-42af-b131-dc43c9229f03",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Naruto Shimonishi",
+    "normalized_name": "naruto shimonishi",
+    "sentence": ""
+  },
+  {
+    "entity_id": "7dabd77b-6846-4f10-8886-079b9da8c4e5",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Yuto Nakajima",
+    "normalized_name": "yuto nakajima",
+    "sentence": ""
+  },
+  {
+    "entity_id": "6b950091-5da7-48cb-97cb-c82a1b9687b6",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Kenichi Ogiwara",
+    "normalized_name": "kenichi ogiwara",
+    "sentence": ""
+  },
+  {
+    "entity_id": "40667d4d-5506-469e-ac70-938d12bc849a",
+    "document_id": "41869911",
+    "type": "researcher",
+    "name": "Keiji Nogami",
+    "normalized_name": "keiji nogami",
+    "sentence": ""
+  },
+  {
+    "entity_id": "3fd47f13-9ba5-4667-a7d6-c15edc57032d",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "Efmoroctocog alfa",
+    "normalized_name": "efmoroctocog alfa",
+    "sentence": "Efmoroctocog alfa (ELOCTATE) and rurioctocog alfa pegol (ADYNOVATE) are extended half-life (EHL) recombinant human coagulation factor VIII (rFVIII) products indicated for the prophylaxis of bleeding and in the perioperative setting in patients with hemophilia A. Continuous infusion (CI) using a standard half-life (SHL) rFVIII is an established alternative to bolus infusion (BI) for surgical procedures or major bleeds and has several advantages over BI, including the ability to maintain stable FVIII levels and cost savings due to reduced product usage."
+  },
+  {
+    "entity_id": "98b475ca-0709-48a6-b287-cce79395f637",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "rurioctocog alfa pegol",
+    "normalized_name": "rurioctocog alfa pegol",
+    "sentence": "Efmoroctocog alfa (ELOCTATE) and rurioctocog alfa pegol (ADYNOVATE) are extended half-life (EHL) recombinant human coagulation factor VIII (rFVIII) products indicated for the prophylaxis of bleeding and in the perioperative setting in patients with hemophilia A. Continuous infusion (CI) using a standard half-life (SHL) rFVIII is an established alternative to bolus infusion (BI) for surgical procedures or major bleeds and has several advantages over BI, including the ability to maintain stable FVIII levels and cost savings due to reduced product usage."
+  },
+  {
+    "entity_id": "21391547-bc3d-454c-8a64-3506615c9085",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "efmoroctocog alfa",
+    "normalized_name": "efmoroctocog alfa",
+    "sentence": "There is no published stability data for efmoroctocog alfa and rurioctocog alfa pegol, and the manufacturers currently recommend the use of rurioctocog alfa pegol via BI within 3 hours of reconstitution and efmoroctocog alfa via BI within 6 hours of reconstitution."
+  },
+  {
+    "entity_id": "d0c7eab6-2be7-43e3-bb42-276967f01e84",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "alfa pegol",
+    "normalized_name": "alfa pegol",
+    "sentence": "There is no published stability data for efmoroctocog alfa and rurioctocog alfa pegol, and the manufacturers currently recommend the use of rurioctocog alfa pegol via BI within 3 hours of reconstitution and efmoroctocog alfa via BI within 6 hours of reconstitution."
+  },
+  {
+    "entity_id": "3f383bd3-662c-40da-814e-9cb8bd45c81f",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "efmoroctocog alfa",
+    "normalized_name": "efmoroctocog alfa",
+    "sentence": "The aim of this study was to determine the in vitro stability of efmoroctocog alfa and rurioctocog alfa pegol over a 5-day period."
+  },
+  {
+    "entity_id": "9f6d29c7-156c-419e-b4c0-3bdd57e33902",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "alfa pegol",
+    "normalized_name": "alfa pegol",
+    "sentence": "The aim of this study was to determine the in vitro stability of efmoroctocog alfa and rurioctocog alfa pegol over a 5-day period."
+  },
+  {
+    "entity_id": "dfe631de-fbca-4354-9f73-8f7fec4427c8",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "efmoroctocog alfa",
+    "normalized_name": "efmoroctocog alfa",
+    "sentence": "Triplicate samples of efmoroctocog alfa and rurioctocog alfa pegol were tested."
+  },
+  {
+    "entity_id": "2299ac6c-dca9-46b1-8a6e-d6792dae072e",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "alfa pegol",
+    "normalized_name": "alfa pegol",
+    "sentence": "Triplicate samples of efmoroctocog alfa and rurioctocog alfa pegol were tested."
+  },
+  {
+    "entity_id": "1e110087-b00b-4eac-9edf-cb0f94047b03",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "efmoroctocog alfa",
+    "normalized_name": "efmoroctocog alfa",
+    "sentence": "The average FVIII activity for efmoroctocog alfa was 1.03 ± 0.17 U/mL, and the average FVIII activity for rurioctocog alfa pegol was 1.06 ± 0.12 U/mL. Efmoroctocog alfa and rurioctocog alfa pegol demonstrated stability for 96 hours."
+  },
+  {
+    "entity_id": "1cc46ef9-a2f8-4959-a079-d6cafb6b7236",
+    "document_id": "41850309",
+    "type": "compound",
+    "name": "alfa pegol",
+    "normalized_name": "alfa pegol",
+    "sentence": "The average FVIII activity for efmoroctocog alfa was 1.03 ± 0.17 U/mL, and the average FVIII activity for rurioctocog alfa pegol was 1.06 ± 0.12 U/mL. Efmoroctocog alfa and rurioctocog alfa pegol demonstrated stability for 96 hours."
+  },
+  {
+    "entity_id": "2e258bff-0f6c-4d6b-be5d-d7e464fce6a2",
+    "document_id": "41850309",
+    "type": "researcher",
+    "name": "Gianna Pastore",
+    "normalized_name": "gianna pastore",
+    "sentence": ""
+  },
+  {
+    "entity_id": "0c8a98ae-bee8-490a-a586-fe86983de67d",
+    "document_id": "41850309",
+    "type": "researcher",
+    "name": "Richard De Lepervanche",
+    "normalized_name": "richard de lepervanche",
+    "sentence": ""
+  },
+  {
+    "entity_id": "ce1fb34b-4505-48c7-a898-e7d58fd0196a",
+    "document_id": "41850309",
+    "type": "researcher",
+    "name": "Jane A Mason",
+    "normalized_name": "jane a mason",
+    "sentence": ""
+  },
+  {
+    "entity_id": "8d0e30d8-d9fa-4552-8e6f-eafba9bc68c5",
+    "document_id": "41846404",
+    "type": "disease",
+    "name": "hemophilia A",
+    "normalized_name": "hemophilia a",
+    "sentence": "More than 10% of severe hemophilia A patients are paradoxically mild bleeders despite factor VIII (FVIII) levels being <1 IU/dl."
+  },
+  {
+    "entity_id": "b04361df-6ffb-4223-b40c-643aa70662f8",
+    "document_id": "41846404",
+    "type": "protein",
+    "name": "factor VIII (FVIII) levels",
+    "normalized_name": "factor viii (fviii) levels",
+    "sentence": "More than 10% of severe hemophilia A patients are paradoxically mild bleeders despite factor VIII (FVIII) levels being <1 IU/dl."
+  },
+  {
+    "entity_id": "823ade5f-78cd-464a-9944-097a9c3a8783",
+    "document_id": "41846404",
+    "type": "disease",
+    "name": "hemophilia",
+    "normalized_name": "hemophilia",
+    "sentence": "Quantitation of FVIII levels <1 IU/dl is a challenge due to the detection limits of traditional one-stage activated partial thromboplastin time, two-stage chromogenic assay, and tissue factor-initiated thrombin generation assay (TF-TGA), impeding a precise characterization of the bleeding phenotype in severe hemophilia patients."
+  },
+  {
+    "entity_id": "56046ba8-d331-4484-8259-2f9eb79eb5f1",
+    "document_id": "41846404",
+    "type": "protein",
+    "name": "factor IXa",
+    "normalized_name": "factor ixa",
+    "sentence": "We optimized the fluorometric quantitation of thrombin generation triggered by factor IXa (FIXa) in artificial reconstituted plasma by blending varying proportions of normal pooled plasma (NPP) and FVIII-immunodepleted plasma containing a normal level of von Willebrand factor."
+  },
+  {
+    "entity_id": "bd9f745d-6f1e-41b2-84bd-a979ceeb2494",
+    "document_id": "41846404",
+    "type": "protein",
+    "name": "FVIII",
+    "normalized_name": "fviii",
+    "sentence": "FIXa-initiated thrombin generation depended on FVIII level, while TF could bypass FVIII deficiency to activate thrombin, making TF-TGA incapable of quantifying low levels of FVIII."
+  },
+  {
+    "entity_id": "176eeeaa-c795-4193-b295-b72cb4f0f6bb",
+    "document_id": "41846404",
+    "type": "disease",
+    "name": "FVIII deficiency",
+    "normalized_name": "fviii deficiency",
+    "sentence": "FIXa-initiated thrombin generation depended on FVIII level, while TF could bypass FVIII deficiency to activate thrombin, making TF-TGA incapable of quantifying low levels of FVIII."
+  },
+  {
+    "entity_id": "7270a045-f5f2-4552-b2f9-f6a8aa5190a9",
+    "document_id": "41846404",
+    "type": "disease",
+    "name": "hemophilia A",
+    "normalized_name": "hemophilia a",
+    "sentence": "In addition to traditional TF-TGA, FIXa-TGA may provide additional information when assessing the bleeding tendency of patients with severe hemophilia A, facilitating personalized factor replacement therapy."
+  },
+  {
+    "entity_id": "9f63e9b2-26f4-4d46-8cf8-71db26047805",
+    "document_id": "41846404",
+    "type": "researcher",
+    "name": "Meijuan Huang",
+    "normalized_name": "meijuan huang",
+    "sentence": ""
+  },
+  {
+    "entity_id": "539be3cb-afcd-4ad9-9de8-116eb2d4a439",
+    "document_id": "41846404",
+    "type": "researcher",
+    "name": "Jorell Gantioqui",
+    "normalized_name": "jorell gantioqui",
+    "sentence": ""
+  },
+  {
+    "entity_id": "87962ced-df0b-4095-bca6-23e3763013ca",
+    "document_id": "41846404",
+    "type": "researcher",
+    "name": "Anthony K C Chan",
+    "normalized_name": "anthony k c chan",
+    "sentence": ""
+  },
+  {
+    "entity_id": "7c7ed564-2a5b-4dba-8705-c36839454284",
+    "document_id": "41846404",
+    "type": "researcher",
+    "name": "Howard H W Chan",
+    "normalized_name": "howard h w chan",
+    "sentence": ""
+  },
+  {
+    "entity_id": "88986232-01c2-44ac-87b0-69f2d920e97e",
+    "document_id": "41838684",
+    "type": "protein",
+    "name": "factor activity assays",
+    "normalized_name": "factor activity assays",
+    "sentence": "Conventional hemostatic assays often focus on isolated components or limited phases of hemostasis; for example, activated partial thromboplastin time and prothrombin time evaluate only the initiation of fibrin formation, while factor activity assays assess the function of individual coagulation factors."
+  },
+  {
+    "entity_id": "c4e91e76-fe0a-4aa7-9247-cf0bde31ed4a",
+    "document_id": "41838684",
+    "type": "compound",
+    "name": "heparin",
+    "normalized_name": "heparin",
+    "sentence": "The assay reliably captures simultaneous thrombin and plasmin generation with good intra- and inter-assay precision, and detects modulation of coagulation and fibrinolysis by effectors such as heparin, activated protein C, and epsilon-aminocaproic acid."
+  },
+  {
+    "entity_id": "20039135-7c3a-4afb-866f-d3dc7d26f820",
+    "document_id": "41838684",
+    "type": "protein",
+    "name": "activated protein C",
+    "normalized_name": "activated protein c",
+    "sentence": "The assay reliably captures simultaneous thrombin and plasmin generation with good intra- and inter-assay precision, and detects modulation of coagulation and fibrinolysis by effectors such as heparin, activated protein C, and epsilon-aminocaproic acid."
+  },
+  {
+    "entity_id": "c0b710d2-3881-43c1-bf0b-6925895018c0",
+    "document_id": "41838684",
+    "type": "compound",
+    "name": "epsilon-aminocaproic acid",
+    "normalized_name": "epsilon-aminocaproic acid",
+    "sentence": "The assay reliably captures simultaneous thrombin and plasmin generation with good intra- and inter-assay precision, and detects modulation of coagulation and fibrinolysis by effectors such as heparin, activated protein C, and epsilon-aminocaproic acid."
+  },
+  {
+    "entity_id": "2cd61963-ec2e-4f4b-a4f3-dab76537ddcc",
+    "document_id": "41838684",
+    "type": "disease",
+    "name": "fibrinolytic disorders",
+    "normalized_name": "fibrinolytic disorders",
+    "sentence": "In clinical samples, significantly reduced thrombin generation was observed in patients with coagulation factor deficiencies, while patients with fibrinolytic disorders showed elevated plasmin generation profiles."
+  },
+  {
+    "entity_id": "a3ba10a4-f8a6-4c73-81c9-e41060b78dbf",
+    "document_id": "41838684",
+    "type": "researcher",
+    "name": "Bauke Haisma",
+    "normalized_name": "bauke haisma",
+    "sentence": ""
+  },
+  {
+    "entity_id": "98f2c661-8a9a-4a76-af47-74956eb018e1",
+    "document_id": "41838684",
+    "type": "researcher",
+    "name": "Waander L van Heerde",
+    "normalized_name": "waander l van heerde",
+    "sentence": ""
+  },
+  {
+    "entity_id": "93e87759-fe89-4944-86a7-15631e6e0f53",
+    "document_id": "41838684",
+    "type": "researcher",
+    "name": "An K Stroobants",
+    "normalized_name": "an k stroobants",
+    "sentence": ""
+  },
+  {
+    "entity_id": "98c89c74-e34a-4497-a487-1e9dd0194b7d",
+    "document_id": "41838684",
+    "type": "researcher",
+    "name": "Sanna R Rijpma",
+    "normalized_name": "sanna r rijpma",
+    "sentence": ""
+  },
+  {
+    "entity_id": "bab4be89-a550-4753-8ede-45a345b85fa1",
+    "document_id": "41838684",
+    "type": "researcher",
+    "name": "Saskia E M Schols",
+    "normalized_name": "saskia e m schols",
+    "sentence": ""
+  },
+  {
+    "entity_id": "729061dc-d151-4832-bd76-26c08f6ce467",
+    "document_id": "41825467",
+    "type": "gene",
+    "name": "gene therapy",
+    "normalized_name": "gene therapy",
+    "sentence": "The introduction of gene therapy, with currently approved approaches using adeno-associated viral vectors to deliver functional copies of the factor VIII or IX gene into hepatocytes, now represents the next paradigm shift: a one-time, irreversible intervention designed to restore endogenous factor production."
+  },
+  {
+    "entity_id": "06b112ee-2db2-4f98-8d7a-9a40af0a306f",
+    "document_id": "41825467",
+    "type": "protein",
+    "name": "factor VIII",
+    "normalized_name": "factor viii",
+    "sentence": "The introduction of gene therapy, with currently approved approaches using adeno-associated viral vectors to deliver functional copies of the factor VIII or IX gene into hepatocytes, now represents the next paradigm shift: a one-time, irreversible intervention designed to restore endogenous factor production."
+  },
+  {
+    "entity_id": "ee247970-e8b5-4ab7-a557-c615f6075106",
+    "document_id": "41825467",
+    "type": "gene",
+    "name": "IX gene",
+    "normalized_name": "ix gene",
+    "sentence": "The introduction of gene therapy, with currently approved approaches using adeno-associated viral vectors to deliver functional copies of the factor VIII or IX gene into hepatocytes, now represents the next paradigm shift: a one-time, irreversible intervention designed to restore endogenous factor production."
+  },
+  {
+    "entity_id": "aa183a91-ae17-4558-b786-6ce8230ee51e",
+    "document_id": "41825467",
+    "type": "protein",
+    "name": "factor production",
+    "normalized_name": "factor production",
+    "sentence": "The introduction of gene therapy, with currently approved approaches using adeno-associated viral vectors to deliver functional copies of the factor VIII or IX gene into hepatocytes, now represents the next paradigm shift: a one-time, irreversible intervention designed to restore endogenous factor production."
+  },
+  {
+    "entity_id": "cec4978d-a9fe-4f0c-8206-b76644cbfbe2",
+    "document_id": "41825467",
+    "type": "gene",
+    "name": "gene therapy",
+    "normalized_name": "gene therapy",
+    "sentence": "This Viewpoint examines the ethical and practical safeguards required to ensure the safe and equitable implementation of gene therapy."
+  },
+  {
+    "entity_id": "d4bf7cd4-86cc-47b1-babc-1362d73de519",
+    "document_id": "41825467",
+    "type": "gene",
+    "name": "gene therapy",
+    "normalized_name": "gene therapy",
+    "sentence": "The promise of gene therapy must advance with vigilance shaped by history's lessons to sustain public trust and safeguard the future of haemophilia care."
+  },
+  {
+    "entity_id": "c369db3d-4829-442b-a31d-c4176d689c3a",
+    "document_id": "41825467",
+    "type": "researcher",
+    "name": "Kelsey Uminski",
+    "normalized_name": "kelsey uminski",
+    "sentence": ""
+  },
+  {
+    "entity_id": "772212f0-b929-4c35-acee-258d054f04c6",
+    "document_id": "41825467",
+    "type": "researcher",
+    "name": "Christine A Lee",
+    "normalized_name": "christine a lee",
+    "sentence": ""
+  },
+  {
+    "entity_id": "869da4d1-a2f5-4e92-a227-e61a03d38510",
+    "document_id": "41825467",
+    "type": "researcher",
+    "name": "Cedric Hermans",
+    "normalized_name": "cedric hermans",
+    "sentence": ""
+  },
+  {
+    "entity_id": "bd740000-798e-404c-ac93-cc154bd2336b",
+    "document_id": "41821314",
+    "type": "disease",
+    "name": "thrombotic disorders",
+    "normalized_name": "thrombotic disorders",
+    "sentence": "Protein S (PS) is an important anticoagulant implicated in both bleeding and thrombotic disorders, making it a promising drug target."
+  },
+  {
+    "entity_id": "9a4bb7bd-e12c-487e-a953-fa487407e934",
+    "document_id": "41821314",
+    "type": "protein",
+    "name": "factor V",
+    "normalized_name": "factor v",
+    "sentence": "PS has been proposed to circulate in the bloodstream together with TFPIα and a truncated form of factor V (fV-short) in the trimolecular complex, TFPIα-PS-fV-short, which we call protein S complex (PSC)."
+  },
+  {
+    "entity_id": "0e7a22f9-13d2-4e08-a644-3eed7bd516be",
+    "document_id": "41821314",
+    "type": "disease",
+    "name": "pathological bleeding disorders",
+    "normalized_name": "pathological bleeding disorders",
+    "sentence": "Our results show that changes in PSC can dramatically impact severity of pathological bleeding disorders."
+  },
+  {
+    "entity_id": "d1b31210-b90b-4627-8c18-993dec217e75",
+    "document_id": "41821314",
+    "type": "disease",
+    "name": "east Texas bleeding disorder",
+    "normalized_name": "east texas bleeding disorder",
+    "sentence": "For the east Texas bleeding disorder, elevated PSC concentrations eliminate thrombin bursts, leading to bleeding."
+  },
+  {
+    "entity_id": "7c307185-3e1e-4663-b9ee-7c89150f8a32",
+    "document_id": "41821314",
+    "type": "disease",
+    "name": "fV deficiency",
+    "normalized_name": "fv deficiency",
+    "sentence": "With fV deficiency, reducing PSC rescues thrombin production in severe fV deficiency and returns thrombin production due to mild fV deficiency to normal."
+  },
+  {
+    "entity_id": "a1f09ae5-afd6-4e46-b286-b1be4c7c3de9",
+    "document_id": "41821314",
+    "type": "disease",
+    "name": "mild fV deficiency",
+    "normalized_name": "mild fv deficiency",
+    "sentence": "With fV deficiency, reducing PSC rescues thrombin production in severe fV deficiency and returns thrombin production due to mild fV deficiency to normal."
+  },
+  {
+    "entity_id": "14a7a955-b7e3-4bd0-9d04-db03319c7c69",
+    "document_id": "41821314",
+    "type": "disease",
+    "name": "hemophilia A",
+    "normalized_name": "hemophilia a",
+    "sentence": "Finally, thrombin production in severe hemophilia A can be substantially improved by blocking PSC's anticoagulant function."
+  },
+  {
+    "entity_id": "b3ac40df-9306-4e06-97dd-ec41db9f890a",
+    "document_id": "41821314",
+    "type": "researcher",
+    "name": "Alexander G Ginsberg",
+    "normalized_name": "alexander g ginsberg",
+    "sentence": ""
+  },
+  {
+    "entity_id": "51136958-14ce-427b-b623-b7636cc63538",
+    "document_id": "41821314",
+    "type": "researcher",
+    "name": "Josefin Ahnström",
+    "normalized_name": "josefin ahnström",
+    "sentence": ""
+  },
+  {
+    "entity_id": "0d954d90-45e5-47d8-b171-d77c510831ed",
+    "document_id": "41821314",
+    "type": "researcher",
+    "name": "James T B Crawley",
+    "normalized_name": "james t b crawley",
+    "sentence": ""
+  },
+  {
+    "entity_id": "d8df523b-0e89-41ae-8e69-1a49db4932b3",
+    "document_id": "41821314",
+    "type": "researcher",
+    "name": "Karin Leiderman",
+    "normalized_name": "karin leiderman",
+    "sentence": ""
+  },
+  {
+    "entity_id": "41a1bd78-d402-40c0-8e16-884fadcb5e17",
+    "document_id": "41821314",
+    "type": "researcher",
+    "name": "Dougald M Monroe",
+    "normalized_name": "dougald m monroe",
+    "sentence": ""
+  },
+  {
+    "entity_id": "69f09543-97be-467a-a4e9-b2c483820995",
+    "document_id": "41821314",
+    "type": "researcher",
+    "name": "Keith B Neeves",
+    "normalized_name": "keith b neeves",
+    "sentence": ""
+  },
+  {
+    "entity_id": "d850098f-abf3-4bc8-aeda-fb5b32f8acf4",
+    "document_id": "41821314",
+    "type": "researcher",
+    "name": "Suzanne F Sindi",
+    "normalized_name": "suzanne f sindi",
+    "sentence": ""
+  },
+  {
+    "entity_id": "930f1ae1-3247-4b02-813c-175e89bc000c",
+    "document_id": "41821314",
+    "type": "researcher",
+    "name": "Aaron L Fogelson",
+    "normalized_name": "aaron l fogelson",
+    "sentence": ""
+  }
+]
